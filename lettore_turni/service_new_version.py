@@ -1,3 +1,7 @@
+"""
+this is a new version of the script, i'm just working on it is a raw script
+"""
+
 import pdfplumber
 import pandas as pd
 
