@@ -1,0 +1,4181 @@
+ 
+Pagina    1   
+ 
+
+1) Quante subnet utilizzabili si possono creare applicando la maschera 255.255.255.0 ad un 
+indirizzo di classe B? 
+a) 256 
+b) 255 
+c) 254 
+d) 512  
+e) 511 
+f) 510 
+
+2) Come si chiama il procedimento utilizzato dal router per ricavare l'indirizzo di rete, avendo a 
+disposizione un indirizzo IP ed una subnet mask? 
+a) binary adding 
+b) hexadecimal anding 
+c) binary division 
+d) binary multiplication 
+e) binary ANDing 
+
+3) Quali dei seguenti rappresentano benefici nell'utilizzo del subnetting? 
+a) domini di collisione più grandi 
+b) maggior flessibilità nell'uso degli indirizzi 
+c) domini di broadcast più grandi  
+
+4) Quali dei seguenti sono standard Ethernet? 
+a) 10base2 
+b) 10base-T 
+c) 100base-RX 
+d) 10base4 
+e) 1000base-T 
+
+5) In quale tipo di memoria del router viene salvato il Cisco IOS?  
+Pagina    2   
+ 
+a) RAM 
+b) FLASH 
+c) NVRAM 
+d) ROM 
+
+6) Quali dei seguenti strumenti sono necessari per implementare una LAN di tipo 10base-T? 
+a) RJ-11 
+b) connettori BNC 
+c) connettori RJ-45 
+d) cavi UTP 
+e) hubs o switchs 
+
+7) Quali delle seguenti sono considerate tecnologie WAN? 
+a) DSL 
+b) Ethernet 
+c) FDDI 
+d) Frame Relay 
+e) Token Ring 
+
+8) Quali delle seguenti sono misure della larghezza di banda? 
+a) GHzps 
+b) Mbps 
+c) Nbps 
+d) MHzps 
+e) Gbps 
+
+9) Dato l'indirizzo IP 205.16.105.223 e la subnet mask 255.255.255.240 determina di che tipo 
+di indirizzo si tratta 
+a) Indirizzo di un host 
+b) Indirizzo di rete per la subnet  
+Pagina    3   
+ 
+c) Indirizzo di broadcast per la subnet 
+d) Indirizzo non utilizzabile nella subnet 
+
+10) In notazione binaria qual'è il corrispettivo valore del numero decimale 231? 
+a) 11110010  
+b) 11011011  
+c) 11110110  
+d) 11100111  
+e) 11100101  
+f) 11101110  
+
+11) Con 8 bit qual'è il numero totale di combinazioni possibili? 
+a) 128  
+b) 254  
+c) 255  
+d) 256  
+e) 512  
+f) 1024 
+
+12) Che tipo di cavo UTP è richiesto per connettere un router ad uno switch? 
+a) cavo diritto 
+b) cavo crossover 
+c) cavo rollover 
+d) cavo seriale 
+
+13) Quali dei seguenti sono protocolli di routing? 
+a) DNS 
+b) RIP 
+c) ATM 
+d) IGRP  
+Pagina    4   
+ 
+e) EIGRP 
+f) PPP 
+
+14) Cosa deve considerare un amministratore di rete per assegnare un indirizzo IP ad un server 
+di rete? 
+a) Che l'indirizzo del server dovrebbe essere assegnato da un server DHCP 
+b) Che un server con indirizzo IP dinamico è difficilmente localizzabile nella network 
+c) Che cambiare l'indirizzo IP dopo un periodo di tempo può aumentare la sicurezza del server 
+d) Che il server dovrebbe avere un indirizzo IP statico 
+
+15) Quali delle seguenti sono caratteristiche della RAM di un router? 
+a) Contiene la configurazione di startup o startup-configuration 
+b) Contiene le tabelle di routing 
+c) I dati contenuti vengono persi allo spegnimento del router 
+d) Contiene la configurazione attiva o running-configuration 
+
+16) Quali porte possono essere utilizzate per connettersi ad un router tramite terminale? 
+a) Porta console 
+b) Porta AUX 
+c) Porta Ethernet 
+d) Porta seriale 
+
+17) Quale tipo di cavo è richiesto per connettersi alla porta console del router? 
+a) cavo Coassiale 
+b) UTP diritto 
+c) UTP crossover 
+d) UTP rollover 
+e) fibra ottica 
+
+18) Quali dei seguenti dispositivi sono utilizzati per la costruzione di una WAN? 
+a) hubs   
+Pagina    5   
+ 
+b) routers  
+c) communication servers  
+d) modems  
+e) multi-port repeaters  
+
+19) Quali dei seguenti protocolli utilizzano TCP come protocollo di trasporto? 
+a) FTP 
+b) TFTP 
+c) HTTP 
+d) SNMP 
+
+20) Quale comando mostra tutti gli IOS salvati in un router? 
+a) show version  
+b) show flash  
+c) show startup-config  
+d) show running-config  
+e) show NVRAM 
+
+21) Quale delle seguenti è la giusta sequenza di boot di un router per default? 
+a) controllo hardware, caricamento IOS, caricamento file di configurazione 
+b) caricamento IOS, controllo hardware,caricamento file di configurazione 
+c) caricamento file di configurazione, controllo hardware, caricamento IOS 
+d) caricamento IOS, caricamento file di configurazione, controllo hardware 
+
+22) Qual'è il comando utilizzato in un router per abilitare la password della modalità privilegiata 
+(priviliged EXEC mode)? 
+a) enable password 
+b) login 
+c) password 
+d) secret  
+Pagina    6   
+ 
+e) enable 
+
+23) Quale affermazione è vera circa il processo di subnetting? 
+a) Alcuni bit della porzione network sono riassegnati come bit della porzione host 
+b) Alcuni bit della porzione subnetwork sono riassegnati come bit della porzione network 
+c) Alcuni bit della porzione host sono riassegnati come bit della porzione network 
+d) Alcuni bit della porzione network sono riassegnati come bit della porzione subnetwork 
+
+24) Quale dei seguenti progetti IEEE rappresenta lo standard wireless conosciuto anche come 
+"WI-FI" ? 
+a) 802.11a 
+b) 802.11b 
+c) 802.11c 
+d) 802.11g 
+
+25) Come sono rappresentati i bit 0 e 1 in un segnale trasmesso su fibra ottica? 
+a) +5 volts/-5 volts 
+b) 0 volts/+5 volts 
+c) luce/assenza di luce  
+
+26) Quale set di comandi si utilizza in un router per entrare in modalità globale (global 
+configuration mode)? 
+a) Router(config)> enable  
+Router(config)# config terminal  
+b) > enable 
+# config terminal  
+c) Router> enable 
+Router# config terminal  
+d) rommon1> enable 
+rommon2> config terminal   
+Pagina    7   
+ 
+
+27) Quali tra le seguenti sono porte logiche note? 
+a) 8080 
+b) 80 
+c) 501 
+d) 2048 
+
+28) Qual'è il comando utilizzato in un router per abilitare la password della modalità privilegiata 
+(privileged EXEC mode)? 
+a) enable password 
+b) login 
+c) password 
+d) secret 
+e)      enable 
+
+29) Nella sigla 10base-T cosa rappresenta la lettera T? 
+a) Indica la velocità di trasferimento (10 Mbps)  
+b) Indica il tipo di modulazione del segnale (base band) 
+c) Indica la versione dello standard (versione T) 
+d) Indica il tipo di cavi utilizzato (Ethernet su cavo UTP) 
+
+30) Quali tra i seguenti protocolli utilizzano UDP come protocollo di trasporto? 
+a) TELNET 
+b) TFTP 
+c) HTTP 
+d) SMTP 
+
+31) Quale comando si utilizza per cambiare lo stato dell'interfaccia di un router da down a up? 
+a) shutdown 
+b) no shutdown 
+c) enable  
+Pagina    8   
+ 
+d) no enable 
+e) interface 
+
+32) Quali sono i nomi dei due tipi di fibre ottiche esistenti? 
+a) Fibre single-mode 
+b) Fibre multimode 
+c) Fibre single-path 
+d) Fibre multi-path 
+e) Fibre con Laser 
+f) Fibre con LED 
+
+33) Che tipo di cavo UTP è richiesto per connettere tra di loro due switch? 
+a) cavo diritto 
+b) cavo crossover 
+c) cavo rollover 
+d) cavo switcher 
+
+34) Quali sono i benefici di una rete wireless rispetto ad una rete su cavi ? 
+a) velocità più alta 
+b) maggior sicurezza nella transmissione 
+c) mobilità dei dispositivi connessi 
+d) schede di rete più economiche 
+e) cablaggio non necessario 
+
+35) Quali dei seguenti è un altro termine per indicare un hub? 
+a) transceiver  
+b) switch  
+c) bridge  
+d) multiport repeater  
+e) active host  
+Pagina    9   
+ 
+
+36) Quali affermazioni circa il cavo coassiale sono vere? 
+a) E' più economico del cavo UTP e della fibra ottica 
+b) Supporta velocità maggiori rispetto al cavo UTP 
+c) Può raggiungere una lunghezza massima superiore ai 100 m 
+d) Non può superare la lunghezza di 100 m 
+e) E' meno economico del cavo UTP 
+
+37) Quale tipo di codifica del segnale è utilizzato dallo standard Ethernet? 
+a) ZNR 
+b) ZNRI 
+c) Manchester 
+d) ASCII 
+
+38) Dato l'indirizzo di rete 197.26.193.0 quale sottomaschera si deve applicare per ottenere 
+almeno 13 subnet utilizzabili? 
+a) 255.255.255.192 
+b) 255.255.255.224 
+c) 255.255.255.240 
+d) 255.255.255.248 
+
+39) Quali delle seguenti soluzioni possono alleviare il problema delle collisioni dei frame in una 
+LAN ? 
+a) ridurre il numero dei domini di broadcast 
+b) aggiungere un hub 
+c) aggiungere uno switch 
+d) aumentare la lunghezza dei cavi UTP 
+
+40) Quale dei seguenti indirizzi usa il router per decidere l’instradamento del pacchetto? 
+a) IP mittente 
+b) IP di destinazione  
+Pagina    10   
+ 
+c) indirizzo MAC mittente 
+d) indirizzo MAC destinazione 
+e) indirizzo default gateway   
+
+41) Quali dei seguenti protocolli forniscono la risoluzione di indirizzi di rete in una LAN? 
+a) ARP  
+b) DTE  
+c) DCE  
+d) CSU/DSU  
+e) RARP 
+
+42) Quali dei seguenti possono essere numeri esadecimali? 
+a) DEF3  
+b) 1G45  
+c) 1F35  
+d) DH3F  
+e) 453  
+f) X35F 
+
+43) Quali delle seguenti interfacce trasmette un bit alla volta 
+a) Video port 
+b) Sound port 
+c) Serial port 
+d) Parallel port 
+
+44) Quali fra i seguenti termini descrive la capacità trasmissiva di un dato medium  
+a) Bandwidth 
+b) Baseband 
+c) Delay 
+d) Latency  
+Pagina    11   
+ 
+
+45) Quale fra i seguenti materiali è considerato un semiconduttore 
+a) Aria 
+b) Silicio 
+c) Oro 
+d) Vetro 
+
+46) Quali fra le seguenti topologie caratterizza un hub centrale che ha quattro hub attaccati 
+ciascuno dei quali ha quattro host attaccati  
+a) Extended star 
+b) Star 
+c) Bus 
+d) Ring 
+
+47) Quali fra le seguenti frasi meglio descrive la funzione del livello data link : 
+a) Selezione del miglio percorso 
+b) Mantenimento dei circuiti virtuali 
+c) Accesso al mezzo ed indirizzamento fisico 
+d) Scambio di dati tra le entità di presentazione 
+
+48) Quale effetto ha sul dominio di collisione la presenza di un hub o di un repeater ? 
+a) Lo riduce 
+b) Lo allarga 
+c) Lo elimina 
+d) Non ha nessun effetto 
+
+49) Quali fra le seguenti azioni causano una collisione in una rete Ethernet 
+a) Due nodi hanno lo stesso MAC address 
+b) Due o più nodi trasmettono nello stesso istante 
+c) Nella rete girano protocolli non OSI 
+d) Molti protocolli di routing girano nella stessa rete  
+Pagina    12   
+ 
+
+50) Che tipo di applicazione è FTP ? 
+a) Un applicazione client 
+b) Una applicazione server 
+c) Una applicazione client-server 
+d) Un applicazione di ridirezione 
+
+51) Quali fra le seguenti non sono caratteristiche del TCP 
+a) Connection oriented 
+b) Ritrasmissione dei dati non ricevuti 
+c) Best effort delivery 
+d) Divide messaggi in segmenti 
+
+52) Quanti host bits sono disponibili nella maschera di sottorete 255.255.248.0 ? 
+a) 8 
+b) 9 
+c) 11 
+d) 13 
+
+53) Quali fra le seguenti funzioni espletate da una NIC sono classificate al livello 2 
+a) Incapsulamento dei dati in segmenti 
+b) Codifica dei bits come segnali elettrici 
+c) Controllo dell’accesso del computer al mezzo di rete 
+d) Uso dell’indirizzo di rete per l’instradamento 
+
+54) Quali dei seguenti protocolli forniscono la risoluzione di indirizzi di rete ? 
+a) ARP  
+b) DTE  
+c) CSU/DSU  
+d) RARP  
+Pagina    13   
+ 
+
+55) Quali fra le frasi seguenti in relazione alle RFC sono corrette ? 
+a) Le RFC sono indicate da un numero specifico, per esempio RFC 1880 
+b) I numeri di RFC sono assegnati in sequenza e non sono mai riusati 
+c) RFC sta per “request Format of Comments” 
+d) Quando uno standard tracciato in una RFC viene rivisto, viene assegnato un nuovo 
+numero 
+
+56) Quali, tra le seguenti asserzioni, sono vere per quanto riguarda le reti basate su server?  
+a) vi è un controllo centralizzato delle risorse di rete 
+b) tutti i computer della rete si comportano sia da client sia da server. 
+c) si può implementare una sicurezza centralizzata per proteggere le risorse di rete. 
+d) può crescere con lo svilupparsi dell’azienda. 
+
+57) Quale tipologia fisica è in genere utilizzata per le reti wan quando è indispensabile che la 
+trasmissione dei dati da un luogo a un altro sia affidabile? 
+a) a stella 
+b) ad anello 
+c) a maglie 
+d) a bus 
+
+58) Considerare una rete locale che trasmette dati a 100 Mbit/s. Se vi è un impulso di rumore di 
+1ms che disturba i dati, quanti bit sono coinvolti dal disturbo? 
+a) 100 Gbit 
+b) 100 Mbit 
+c) 100 Kbit 
+d) 100 bit 
+
+59) Si ha internetworking 
+a) Quando più reti sono connesse tra di loro 
+b) Quando le reti connesse adottano tecnologie tra loro incompatibili 
+c) Solo se si interconnettono più LAN  
+Pagina    14   
+ 
+d) In tutti i casi precedenti 
+
+60) In una rete di tipo broadcasting 
+a) Per arrivare a destinazione non è necessario che ogni pacchetto attraversi tutti i computer della rete 
+b) Esistono molti percorsi che portano alla stessa destinazione 
+c) La comunicazione è basata su piccole sequenze di dati 
+d) Nessuna delle precedenti 
+
+61) Tra i vantaggi introdotti da una rete di calcolatori possiamo individuare 
+a) La condivisione delle risorse 
+b) La scalabilità 
+c) La diminuzione dei costi 
+d) L’affidabilità 
+
+62) Tra gli elementi di una communication subnet possiamo individuare : 
+a) Linee di trasmissione 
+b) Host 
+c) Gli elementi di commutazione 
+d) Tutti i precedenti 
+
+63) Tra gli elementi chiave di un protocollo troviamo : 
+a) Il significato di ogni gruppo di bit 
+b) I dettagli hardware della rete 
+c) La struttura ed il formato dei dati 
+d) I dettagli hardware dei computer che lo implementano 
+
+64) Quali tra i seguenti modelli ed architetture sono considerati “standard de facto” 
+a) IEEE 802 
+b) IBM SNA 
+c) TCP/IP  
+Pagina    15   
+ 
+d) OSI 
+
+65) Le LAN sono state sviluppate per risolvere quali necessità? 
+a) Ridurre la duplicazione di componenti hardware (stampanti,server,PC) 
+b) Incrementare la produttività senza però risparmiare in costi 
+c) Connettere utenti di diverse aree geografiche 
+d) Incrementare la complessità dell'ambiente di rete 
+
+66) Quali delle seguenti sono funzioni di una WAN? 
+a) connettere più periferiche in una singola rete 
+b) connettere più LAN in una singola rete 
+c) fornire connettività ad una vasta area geografica 
+d) fornire connettività in una LAN 
+
+67) Le unità Service Data Unit sono : 
+a) L’intestazione che viene aggiunta a ciascun livello n all’informazione che sopraggiunge dal livello 
+superiore 
+b) l’insieme dei dati che vengono scambiati da livelli di pari entità 
+c) informazioni di servizio che il livello n passa al livello n+1 
+d) informazioni che il livello n+1 passa al livello n per la trasmissione 
+
+68) Nel modello di riferimento OSI individuare quali delle seguenti asserzioni sono vere: 
+a) I dati non vengono trasmessi direttamente dal livello n di un sistema al livello n di un 
+altro sistema 
+b) I dati vengono trasmessi direttamente dal livello n di un sistema al livello n di un altro sistema 
+c) Il livello 1 di un sistema trasmette direttamente i dati al livello 1 di un altro sistema 
+d) Il livello 6 di un sistema trasmette direttamente i dati al livello 1 di un altro sistema 
+
+69) Si supponga di avere tre sistemi come in figura dove sono stati attivati soltanto i primi due 
+livelli della pila OSI. Quali delle seguenti affermazioni sono vere ?  
+Pagina    16   
+ 
+ 
+a) Il sistema S1 può trasferire bit con S2 
+b) Il sistema S2 può trasferire bit con S3 
+c) Il sistema S1 può trasferire bit con S3 
+d) Nessun sistema può trasferire bit con nessun altro 
+
+70) Quando i dati vengono trasmessi dal dispositivo A a quello B l’header aggiunto allo strato 5 
+del livello OSI del dispositivo A viene letto nel dispositivo B dallo strato 
+a) fisico 
+b) trasporto 
+c) sessione 
+d) presentazione 
+
+71) Quale strato funge da legame tra gli strati di supporto all’utente e quelli di supporto alla 
+rete 
+a) Lo strato di rete 
+b) Lo strato fisico 
+c) Lo strato di trasporto 
+d) Lo strato di sessione 
+
+72) Attraverso il mezzo fisico, lo strato fisico si occupa della trasmissione di : 
+a) programmi 
+b) dialoghi 
+c) protocolli 
+S1
+S2
+S3
+S1
+S2
+S3 
+Pagina    17   
+ 
+d) bit 
+
+73) Quali dei seguenti protocolli sono considerati protocolli delle applicazioni 
+a) TCP 
+b) SMTP 
+c) FTP 
+d) NETBEUI 
+
+74) Quando un pacchetto viene trasferito dagli stati più bassi a quelli più alti gli header vengono 
+a) aggiunti 
+b) rimossi 
+c) ridisposti 
+d) modificati 
+
+75) Si associ ognuna delle affermazioni seguenti a uno degli strati OSI 
+A. Individuazione del percorso 
+B. Controllo di flusso 
+C. Interfaccia con il mondo esterno 
+D. Controllo di flusso 
+E. Switching dei pacchetti 
+1 Rete 
+2 Trasporto 
+3 Applicazione 
+4 Trasporto 
+5  Rete 
+
+76) A quale strato del modello OSI operano i router ? 
+a) Fisico 
+b) Data link 
+c) Rete 
+d) Trasporto  
+Pagina    18   
+ 
+
+77) Quali dei protocolli seguenti si trovano nello strato di rete del modello di riferimento TCP/IP 
+? 
+a) FTP 
+b) ARP 
+c) UDP 
+d) ICMP 
+
+78) Quale è la funzione principale dello strato di trasporto ? 
+a) Individuazione dell’indirizzo fisico del destinatario 
+b) Consegna processo-processo del messaggio 
+c) sincronizzazione 
+d) aggiornamento e gestione delle tabelle di instradamento 
+
+79) Quale dei seguenti è un servizio dello strato applicativo 
+a) Terminale virtuale di rete 
+b) Trasferimento accesso e gestione dei files 
+c) Servizio di posta 
+d) Instradamento dei pacchetti 
+
+80) A quale strato del modello OSI operano i bridge ? 
+a) Fisico 
+b) Data link 
+c) Rete 
+d) Trasporto 
+
+81) Nel modello di riferimento OSI il livello rete applica la seguente regola : 
+a) Aggiunge al pacchetto informazioni relative a sequenza ed indirizzo 
+b) Aggiunge al pacchetto informazioni relative alla gestione di errori 
+c) Invia il pacchetto come flusso di dati 
+d) Inizia o accetta una richiesta di invio di un pacchetto  
+Pagina    19   
+ 
+
+82) Al fine di inviare un messaggio a un programma eseguito su un host è necessario usare 
+l’indirizzo 
+a) di porta 
+b) IP 
+c) fisico 
+d) nessuno dei precedenti 
+e)  
+f) Indirizzo IP 
+g) Indirizzo MAC 
+h) Indirizzo di porta 
+i) Nessuna delle precedenti 
+
+83) Gli indirizzi di livello 3 
+a) Sono usati senza tenere conto del tipo di mezzo trasmissivo 
+b) Sono tipici del mezzo trasmissivo 
+c) Sono generalmente costituiti da due parti introducendo il concetto di gruppo 
+d) Sono dipendenti dal tipo di applicazione da eseguire 
+
+84) Cosa rappresenta il modello ISO/OSI?  
+a) Un protocollo di livello 2 
+b) Un protocollo di rete. 
+c) Una suite di protocolli. 
+d) Modello di riferimento per lo sviluppo di nuovi standard per l'interconnessione di 
+sistemi. 
+
+85) Secondo il modello OSI il SAP:  
+a) È l'interfaccia logica fra due strati di due calcolatori remoti. 
+b) Serve per identificare univocamente le PDU di ciascuno strato. 
+c) È l'interfaccia logica fra due entità di due strati adiacenti nel medesimo calcolatore. 
+d) Nessuna delle precedenti  
+Pagina    20   
+ 
+
+86) Una Protocol Data Unit:  
+a) Si compone di User Data e PCI. 
+b) Viene scambiata fra due entità di due strati adiacenti nel medesimo calcolatore. 
+c) Contiene sempre l'indirizzo del calcolatore di destinazione. 
+d) Viene scambiata tra due entità di pari livello tra due computer remoti 
+
+87) Lo strato fisico (Phisical Layer) secondo l'OSI:  
+a) Si occupa dell'interfaccia fra il calcolatore ed il mezzo trasmissivo a cui è collegato. 
+b) Deve garantire la consegna dei bit senza errori. 
+c) Si occupa delle problematiche di accesso nel caso di mezzi trasmissivi condivisi. 
+d) Deve introdurre una struttura nel flusso dei bit 
+
+88) Lo strato di trasporto (Transport Layer) secondo l'OSI RM:  
+a) Si occupa dell'instradamento dei dati. 
+b) Opera soltanto end-to-end. 
+c) Riceve i dati dallo strato 6. 
+d) Inserisce l’indirizzo di destinazione dei dati 
+
+89) La funzione di ogni livello  
+a) è quella di offrire servizi al livello immediatamente superiore 
+b) permettere al livello superiore di ignorare i dettagli del funzionamento dei servizi 
+implementati. 
+c) È quella di offrire servizi al livello inferiore 
+d) È quella di determinare il protocollo del livello 
+
+90) Sul computer mittente quale livello converte i dati dal formato inviato dal livello 
+applicazione facendo riferimento al modello OSI ? 
+a) Il livello sessione 
+b) Il livello presentazione 
+c) Il livello di rete  
+Pagina    21   
+ 
+d) Il livello traporto 
+
+91) Quale livello determina il percorso dal computer di origine a quello di destinazione. 
+a) Il livello sessione 
+b) Il livello presentazione 
+c) Il livello di rete 
+d) Il livello traporto 
+
+92) Quale livello è responsabile dell’invio di un frame di dati dal livello Rete al livello Fisico. 
+a) Il livello applicativo 
+b) Il livello di rete 
+c) Il livello traporto 
+d) Il livello collegamento dati 
+
+93) Quale livello definisce le modalità di collegamento del cavo alla scheda di rete. 
+a) Il livello collegamento dati 
+b) Il livello fisico 
+c) Il livello di rete 
+d) Il livello traporto 
+
+94) Che tipo di Protocol Data Unit sono gestiti dai router ? 
+a) Bit 
+b) Frame 
+c) Pacchetti 
+d) Segmenti 
+
+95) Un protocollo di livello n : 
+a) È definito dalla primitive di quel livello 
+b) Individua regole e convenzioni della comunicazione tra peer-entity 
+c) Individua regole e convenzioni della comunicazione a livello n  
+Pagina    22   
+ 
+d) E’ definito dalle interfacce del livello n 
+
+96) Una architettura di rete è definita : 
+a) Dall’insieme dei livelli utilizzati 
+b) Dall’insieme dei servizi attivati 
+c) Dall’insieme dei protocolli utilizzati 
+d) Dall’insieme dei livelli e dei protocolli utilizzati 
+
+97) Il modello TCP/IP : 
+a) Non specifica i livelli 1 e 2 del modello 
+b) Inverte rispetto al modello OSI i livelli di rete e di trasporto 
+c) Individua il livello gerarchicamente più alto come livello delle Applicazioni 
+d) Implementa alcune funzioni del modello OSI a livelli diversi 
+
+98) Di quale livello del modello OSI fa parte una scheda di rete? 
+a) fisico  
+b) data link  
+c) rete  
+d) trasporto 
+
+99) Quali sono i vantaggi di dividere la rete nei sette strati del livello OSI? 
+a) Diversi tipi di hardware possono comunicare tra di loro 
+b) I cambiamenti in uno strato non si ripercuotono sugli altri strati 
+c) Permette in generale di incrementare la velocità di trasmissione in una rete 
+d) Se un livello non funziona l'intero sistema può continuare a lavorare 
+
+100) Quali affermazioni sono vere circa il livello data link del modello OSI? 
+a) Collega il livello di trasporto e il livello applicazione 
+b) Incapsula i frame dentro i pacchetti 
+c) Incapsula i dati del livello di rete dentro i frame  
+Pagina    23   
+ 
+d) Codifica i frame in sequenze di bit per la trasmissione sulla rete 
+
+101) A quale livello del modello OSI lavora il protocollo SNMP? 
+a) applicazione 
+b) sessione 
+c) presentazione 
+d) transporto 
+
+102) Nella seguente rete locale con topologia a bus viene interrotto il collegamento tra il 
+computer C ed il computer D. Quali delle seguenti affermazioni sono vere : 
+ 
+a) Continua a funzionare la rete tra i computer A,B,C 
+b) Continua a funzionare la rete tra i computer D ed E 
+c) La rete totale non funziona più 
+d) La rete totale ed i computer C e D non funzionano più 
+
+103) Il transceiver è un dispositivo che  
+a) Viene usato su un cablaggio 10Base5 
+b) Viene usato perché la scheda di rete Thicknet non è in grado di trattare segnali 
+analogici 
+c) Viene usato su un cablaggio 10Base2 
+d) Viene usato su un cablaggio 10Base-T 
+
+104) Un cavo coassiale ThinNet differisce da un cavo coassiale ThickNet : 
+a) Perché può arrivare a distanza maggiore senza attenuazioni 
+b) Perché ha bisogno di un transceiver 
+c) Perche si inserisce direttamente nel retro di un calcolatore tramite un connettore RJ-45 
+d) Nessuna delle precedenti 
+ 
+Pagina    24   
+ 
+
+105) Per installare fisicamente una scheda di rete in un computer e collegarla alla rete, è 
+necessario che  
+a) la scheda corrisponda al tipo di bus di espansione del computer 
+b) abbia i connettori adatti al cablaggio della rete. 
+c) La scheda sia dotata di processore 
+d) La scheda sia dotata di buffer di memoria 
+
+106) Lo spettro elettromagnetico 
+a) Definisce le caratteristiche fisiche della trasmissione in base al tipo di connessione 
+b) Definisce le caratteristiche fisiche della trasmissione in base alla loro frequenza  
+c) Definisce le caratteristiche fisiche della trasmissione in base alla rete in cui sono veicolate 
+d) Definisce le caratteristiche fisiche della trasmissione in base alla loro lunghezza d’onda 
+
+107) Dalla figura che rappresenta la variazione di tensione su un filo conduttore nella 
+trasmissione di una sequenza di bit è possibile dedurre: 
+ 
+a) L’intervallo di tempo trascorso tra la trasmissione del quarto e quinto bit è maggiore 
+rispetto agli altri 
+b) Vengono trasmessi due pacchetti uno dal primo al quarto bit e l’altro dal quinto al sesto 
+c) La figura non è esatta perché ai bit 1 deve corrispondere un voltaggio positivo 
+d) La figura non è esatta perché al bit 0 deve corrispondere un voltaggio zero 
+
+108) Individuare quali delle seguenti frasi sono giuste in relazione ad una comunicazione 
+sincrona 
+ 
+Pagina    25   
+ 
+a) È un sistema che trasferisce i dati a ritmo prefissato 
+b) Poiché i bit vengono inviati e ricevuti nell’ambito di un processo temporizzato e controllato, sono 
+necessari i bit di start e di stop 
+c) la rete non rallenta al diminuire del traffico e i dati giungono a destinazione allo stesso 
+ritmo con il quale sono stati trasmessi 
+d) tutte le precedenti 
+
+109) Supponendo che i canali televisivi siano senza rumore e siano ampi 6 MHz, quanti livelli di 
+segnale dovremmo usare per avere una velocità di 24 Mbps ? 
+a) 2 
+b) 4 
+c) indipendente dai livelli di segnale 
+d) 1 
+
+110) Quale dei seguenti eventi può realizzarsi presso una postazione di una rete token ring ? 
+a) Esame dell’indirizzo del destinatario 
+b) Copia della frame 
+c) Passaggio della frame attraverso la postazione 
+d) I tre eventi precedenti 
+
+111) Si sta installando una rete come quella in figura seguente ; quali posizioni richiederanno sia 
+un connettore a T che un terminatore ? 
+ 
+ 
+ 
+a) Posizione 1 
+b) Posizione 2 
+ 
+Pagina    26   
+ 
+c) Posizione 4 
+d) Posizione 5 
+
+112) In una frame ethernet la componente di controllo degli errori e contenuta 
+a) Nel payload 
+b) Nell’header 
+c) Subito dopo il payload 
+d) Subito dopo l’header 
+
+113) Il segnale che si propaga nelle fibre ottiche è un’onda 
+a) Luminosa 
+b) Radio 
+c) Infrarossa 
+d) A frequenza molto alta 
+
+114) Lo spettro per le radio comunicazioni è suddiviso in bande in base  
+a) All’ampiezza 
+b) Alla frequenza 
+c) Alla lunghezza d’onda 
+d) Al mezzo di trasmissione 
+
+115) Il 10BASE2 ed il 10BASE5 differiscono per 
+a) Il tipo di banda del segnale 
+b) I campi della trama 
+c) La lunghezza massima dei segmenti 
+d) La frequenza dei dati massima 
+
+116) Un ponte quale tipo di indirizzo conosce di una postazione sulla stessa rete ? 
+a) Fisico 
+b) Di rete  
+Pagina    27   
+ 
+c) Del punto di accesso del servizio 
+d) Tutti i precedenti 
+ 
+
+117) Prima di poter essere instradato in una rete Token Ring un pacchetto Ethernet deve 
+attraversare 
+a) Un ripetitore 
+b) Un ponte 
+c) Un router 
+d) Un gateway 
+
+118) La rete locale in uso è costituita da una rete token ring connessa ad una rete ethernet.  Se si 
+copia un file di grandi dimensioni da ethernet a token ring è necessaria una quantità di 
+tempo inferiore rispetto all’operazione inversa. Quali possono essere i possibili motivi ? 
+a) Le rete Token Ring è più lenta della rete Ethernet 
+b) La dimensione dei pacchetti Token Ring è maggiore di quella ethernet 
+c) Il controllo degli errori in una rete Token richiede risorse inferiori rispetto a ethernet 
+d) I dispositivi della rete token hanno uno stack di protocolli più semplice di quello della rete ethernet. 
+
+119) Quale tipo di cavo consiste di un nucleo di metallo ed un rivestimento conduttore esterno ? 
+a) Doppino 
+b) Cavo coassiale 
+c) Fibra ottica 
+d) Doppino schermato 
+
+120) Quale tra i seguenti è un mezzo guidato 
+a) Doppino 
+b) Cavo coassiale 
+c) Atmosfera 
+d) Fibra ottica  
+Pagina    28   
+ 
+
+121) Quale cablaggio specifica una tipologia a stella usando un HUB centrale e doppini non 
+schermati come mezzo ? 
+a) 10BASE5 
+b) 10BASE2 
+c) 10BASET 
+d) nessuno dei precedenti 
+
+122) Un ponte trasmette o filtra un pacchetto confrontando le informazioni nella sua tabella di 
+indirizzi con 
+a) L’indirizzo mittente dello strato 2 
+b) L’indirizzo fisico del nodo mittente 
+c) L’indirizzo destinatario dello strato 2 
+d) L’indirizzo destinatario dello strato 3 
+
+123) Prima di poter essere instradato in una rete FDDI un pacchetto Ethernet deve attraversare 
+a) Un ripetitore 
+b) Un ponte 
+c) Un router 
+d) Un gateway 
+
+124) Quali componenti operativi al livello Fisico OSI possono essere utilizzati per connettere due 
+segmenti di un cavo coassiale per espandere la rete ? 
+a) Ripetitore 
+b) Terminatore 
+c) Connettore a T BNC 
+d) Connettore cilindrico BNC 
+
+125) L’amministratore della rete ha lavorato il fine settimana per aggiungere tre computer alla 
+rete coassiale esistente. Al lunedì tutti si lamentano di non poter avere accesso alla rete. 
+Quale delle seguenti dichiarazioni può spiegarne il motivo ? 
+a) È stato usato un tipo sbagliato di cavo  
+Pagina    29   
+ 
+b) Il terminatore non è collegato alla rete 
+c) Dopo aver aggiunto un nuovo segmento la lunghezza massima del cavo è eccessiva 
+d) I computer aggiunti non sono compatibili con quelli esistenti 
+
+126) Il MAC address è composto da 
+a) 24 bit 
+b) 32 bit 
+c) 48 bit 
+d) 64 bit 
+
+127) Quando un bridge è raggiunto da un pacchetto; egli esamina : 
+a) Il MAC address sorgente 
+b) Il MAC address destinazione 
+c) Entrambi 
+d) Nessuno dei due 
+
+128) Il dominio di collisione 
+a) Un insieme di dispositivi ethernet dove può verificarsi una collisione 
+b) Un insieme di dispositivi etehernet in grado di ricevere tutti le trasmissioni in broadcast 
+c) Un insieme di dispositivi etehernet in grado di ricevere tutti le trasmissioni in multicast 
+d) Un insieme di dispostivi ethernet separati da un bridge 
+
+129) Quale tra i seguenti mezzi trasmissivi permette le velocità di trasmissione più alte?  
+a) Mezzo ottico. 
+b) Mezzo elettromagnetico. 
+c) Mezzo elettrico. 
+d) Tutti i precedenti hanno la medesima velocità massima 
+
+130) Qual'è la differenza tra i cavi elettrici UTP e STP?  
+a) La schermatura: UTP = non schermato, STP = schermato.  
+Pagina    30   
+ 
+b) La qualità del rivestimento plastico. 
+c) L'UTP è un cavo costituito da doppini ritorti, mentre l'STP no 
+d) La schermatura: STP = non schermato, UTP = schermato 
+
+131) Lo svantaggio più consistente nell'utilizzo delle fibre ottiche risiede:  
+a) Nell'elevato costo delle interfacce e dei dispositivi di interconnessione. 
+b) Nell'elevato costo produttivo della fibra stessa. 
+c) Nella possibilità di poter ricoprire soltanto brevi e medie distanze. 
+d) Nell’impossibilità di raggiungere velocità elevate 
+
+132) Il progetto IEEE 802:  
+a) Definisce solo gli standard relativi alle applicazioni necessarie per far comunicare i calcolatori in una 
+rete locale. 
+b) Definisce gli standard relativi agli strati 1 e 2 del modello OSI per le reti locali di 
+calcolatori. 
+c) Definisce gli standard relativi agli strati 1 e 2 del modello OSI per le reti di tipo WAN. 
+d) Definisce gli standard relativi agli strati 2 e 3 del modello OSI per le reti locali di calcolatori. 
+
+133) Quali sono i livelli che differiscono tra i vari standard IEEE 802.x?  
+a) Livello fisico e sottolivello MAC. 
+b) Livello fisico. 
+c) Livello fisico, sottolivello MAC e sottolivello LLC. 
+d) Sottolivello MAC 
+
+134) Il sottolivello LLC:  
+a) Non effettua funzioni di rilevamento e correzione di errori. 
+b) Rileva e corregge gli errori. 
+c) Rileva gli errori e chiede la ritrasmissione del segmento errato. 
+d) Svolge i medesimi compiti indipendentemente dal mezzo fisico sottostante 
+
+135) Quali tra i seguenti protocolli è ad accesso casuale?   
+Pagina    31   
+ 
+a) CSMA/CD. 
+b) Token Ring. 
+c) ISDN. 
+d) ADSL 
+
+136) Nel caso in cui il mezzo trasmissivo si trovi in uno stato di idle nello standard 802.3:  
+a) Le stazioni possono trasmettere solo dopo aver atteso un tempo di durata esponenziale 
+sufficientemente lungo. 
+b) La stazione può trasmettere immediatamente. 
+c) È appena stata rilevata la presenza di una collisione 
+d) Non ci si può mai trovare in uno stato di idle 
+
+137) Supponendo che nello standard 802.3 la propagazione del segnale sul mezzo trasmissivo sia 
+istantanea: 
+a) Si garantirebbe sempre l'assenza di collisioni. 
+b) Colliderebbero solamente le trasmissioni fra le stazioni più lontane. 
+c) Si garantirebbe l'assenza di collisioni se venisse sempre effettuata l'operazione di 
+carrier sensing prima di ogni trasmissione 
+d) Si avrebbero sempre collisioni 
+
+138) L'intervallo di vulnerabilità nello standard 802.3 rappresenta:  
+a) Il tempo di propagazione del segnale fra le due stazioni più lontane. 
+b) L'intervallo in cui i livelli di tensione del segnale trasmesso sono difficilmente rilevabili dalla stazione 
+ricevente. 
+c) L'intervallo durante il quale le stazioni non possono trasmettere. 
+d) L’intervallo di tempo che deve trascorrere dopo una collisione 
+
+139) A valle della trasmissione del segnale di jamming nel protocollo CSMA/CD la trasmissione 
+può essere ritentata:  
+a) Immediatamente, se si rileva che il canale si trova in uno stato di idle.  
+Pagina    32   
+ 
+b) Subito dopo la stazione che aveva trasmesso per ultima e la cui trasmissione aveva prodotto 
+l'evento di collisione. 
+c) Dopo un intervallo di tempo di durata casuale. 
+d) Dopo sessanta secondi 
+
+140) Il campo Length della trama MAC dello standard IEEE 802.3 rappresenta:  
+a) La lunghezza del campo dati LLC. 
+b) La lunghezza del campo dati misurata in numero di bit. 
+c) La lunghezza complessiva della trama MAC . 
+d) La lunghezza della FCS 
+
+141) Il campo PAD all'interno della trama MAC dello standard IEEE 802.3:  
+a) È utilizzato solo come indicatore di fine trama. 
+b) Ha una lunghezza costante pari ad un byte. 
+c) È utilizzato per garantire una sufficiente lunghezza di trama tale da rendere efficiente il 
+processo di Collision Detect. 
+d) E’ utilizzato per identificare il tipo di servizio 
+
+142) La situazione di inattività di tutte le stazioni nello standard 802.5:  
+a) Non può mai verificarsi grazie alla presenza della trama di token. 
+b) Comporta l'assenza di circolazione della trama di token all'interno dell'anello. 
+c) Comporta la circolazione della trama di token all'interno dell'anello 
+d) E’ indice di avvenuta collisione 
+
+143) Lo standard IEEE 802.11 che contiene le specifiche per le LAN senza fili:  
+a) Si basa su di un protocollo MAC, per effettuare a procedura di accesso al mezzo condiviso in una 
+modalità completamente distribuita. 
+b) Si basa su di un protocollo MAC che si differenzia a seconda del tipo di stazione che deve 
+trasmettere. 
+c) Si basa su di un protocollo MAC, che può gestire la procedura di accesso sia in modo 
+completamente distribuito sia in modo centralizzato  
+Pagina    33   
+ 
+d) Si basa su un protocollo di tipo Token 
+
+144) I fili che formano il doppino telefonico sono intrecciati allo scopo di: 
+a) ottenere una maggior robustezza 
+b) aumentare la lunghezza lineare del cavo 
+c) ridurre l'emissione di segnali indesiderati 
+d) non sono intrecciati 
+
+145) La vostra rete sta sperimentando un traffico congestionato e un’attenuazione del segnale, a 
+causa delle eccessive distanze tra i computer e quindi dei cavi troppo lunghi. 
+Risultato fondamentale:  Correggere il problema dell’attenuazione del segnale.  
+Risultati opzionali graditi: 
+ Ridurre il traffico di broadcast presente sulla rete. 
+ Filtrare il traffico di rete per ridurre il numero di cornici trasferite attraverso la rete. 
+Soluzione proposta:  Installare alcuni ripetitori tra i segmenti distanti. Quali risultati produce la soluzione 
+proposta? 
+a) La soluzione proposta produce il risultato fondamentale ed entrambi i risultati opzionali graditi. 
+b) La soluzione proposta produce il risultato fondamentale e solo uno dei risultati opzionali graditi. 
+c) La soluzione proposta produce il risultato fondamentale, ma nessuno dei risultati 
+opzionali graditi. 
+d) La soluzione proposta non produce il risultato fondamentale. 
+
+146) Quali caratteristiche contraddistinguono un hub attivo?  
+a) Funziona in modo analogo a un router 
+b) Rigenera i pacchetti di dati 
+c) È utilizzato solo per reti Ethernet ThickNet 
+d) È definito anche ripetitore multiporta 
+
+147) Una rete è formata da 10 PC. Cinque PC sono collegati a un hub Ethernet e gli altri cinque 
+sono collegati a un secondo hub Ethernet. Entrambi gli hub sono collegati a uno switch. Un  
+Pagina    34   
+ 
+router collega lo switch a un ufficio remoto con una configurazione identica. Quanti indirizzi 
+MAC dovrà conoscere lo switch? 
+a) 11 
+b) 22 
+c) 13 
+d) 26 
+
+148) Quale tipo di cavo viene normalmente utilizzato con la specifica 10BaseT? 
+a) STP 
+b) UTP 
+c) Fibra ottica 
+d) Cavo coassiale 
+
+149) Quali componenti vengono utilizzati con 10BaseT  
+a) Cavo UTP 
+b) Cavo coassiale 
+c) Connettori RJ-45 
+d) Terminatori da 50 ohm 
+
+150) Quali componenti vengono utilizzati con 10Base2?  
+a) Cavo UTP 
+b) Connettori BNC 
+c) Terminatori da 50 ohm 
+d) Connettore AUI 
+
+151) Qual è la lunghezza massima di un segmento 10Base2? 
+a) 65 metri 
+b) 100 metri 
+c) 185 metri 
+d) 500 metri  
+Pagina    35   
+ 
+
+152)  Quale è la lunghezza massima di un segmento 10Base5? 
+a) 65 metri 
+b) 100 metri 
+c) 185 metri 
+d) 500 metri 
+
+153) Le topologie lOBaseT quali hanno tra le seguenti caratteristiche?  
+a) L’uso di terminatori BNC da 50 ohm e di connettori a T 
+b) I connettori RJ-11 
+c) Il cablaggio UTP 
+d) Segmenti di lunghezza massima 500 metri 
+
+154) La ditta XYZ vi ha chiesto di esaminare la configurazione della sua rete (si veda lo schema). 
+Si tratta di una rete 10BaseT, che si serve di un cablaggio con doppino telefonico (CAT
+5). 
+Quale, tra le seguenti affermazioni. costituisce un problema per questa rete? 
+  328 ft = 100 metri 
+a) Tutti i cavi sono troppo lunghi. 
+b) I segmenti che portano ai computer A, O e F sono troppo lunghi. 
+c) I segmenti che portano ai computer A e F sono troppo lunghi. 
+d) Il segmento che porta al computer F è troppo lungo. 
+
+155) La vostra società di consulenza sulle reti ha ricevuto l’incarico di implementare una rete per 
+una piccola azienda, che vuole collegare i suoi 25 computer in una piccola LAN. 
+Risultato fondamentale:L’azienda necessita di una rete che sia in grado di supportare velocità di 
+trasferimento dati fino a 10 Mbps. 
+ 
+Pagina    36   
+ 
+Risultati opzionali graditi: 
+ L’azienda vorrebbe ridurre al minimo le spese. 
+ L’azienda vorrebbe utilizzare i cavi RJ-45 preesistenti, che erano stati installati nell’edificio. 
+Soluzione proposta:implementare una rete ThinNet 
+Quali risultati produce la soluzione proposta? 
+a)  La soluzione proposta produce il risultato fondamentale ed entrambe i risultati opzionali graditi. 
+b) La soluzione proposta produce il risultato fondamentale e solo uno dei risultati opzionali. 
+c) La soluzione proposta produce il risultato fondamentale, ma nessuno dei risultati 
+opzionali graditi. 
+d) La soluzione proposta non produce il risultato fondamentale. 
+
+156) State installando una rete tra due edifici per una ditta che si occupa di grafica pubblicitaria. 
+La ditta vuole collegare la sua piccola rete tra i due edifici, che distano l’uno dall’altro circa 
+900 metri. Ciascun edificio dispone già di una piccola LAN 10BaseT. 
+Risultato fondamentale: Connettere le LAN dei due edifici con il tipo di cablaggio appropriato.  
+Risultati opzionali graditi: 
+ Il segmento che collega i due edifici dovrebbe essere immune da interferenze elettroniche. 
+ I cavi dovrebbero essere poco costosi e facili da installare. 
+Soluzione proposta: Installare una linea lOBaseFL (fibre ottiche), che colleghi i due edifici. 
+Quali risultati produce la soluzione proposta? 
+a) La soluzione proposta produce il risultato fondamentale ed entrambi i risultati opzionali graditi. 
+b) La soluzione proposta produce il risultato fondamentale e solo uno dei risultati 
+opzionali. 
+c) La soluzione proposta produce il risultato fondamentale, ma nessuno dei risultati opzionali graditi. 
+d) La soluzione proposta non produce il risultato fondamentale. 
+
+157) Su una rete lOBase2 , il client B non può connettersi con alcun altro computer. Tutte le altre 
+macchine comunicano correttamente sulla rete. Quale, tra le seguenti, è la causa più 
+probabile del problema sulla rete? 
+a) Un terminatore difettoso  
+Pagina    37   
+ 
+b) Un alto tasso di collisioni 
+c) Un cavo difettoso tra due client 
+d) Una scheda di rete difettosa sul client B 
+
+158) Le specifiche del Progetto 802 definiscono  
+a) le modalità con cui le schede di rete permettono l’accesso e il trasferimento di dati sui 
+supporti fisici. 
+b) Le modalità di instradamento dei pacchetti 
+c) Le modalità di controllo degli errori 
+d) Tutti i precedenti 
+
+159) Quale categoria IEEE definisce gli standard per LAN Token Ring. 
+a) 802.3 
+b) 802.11 
+c) 802.5 
+d) 802.1 
+
+160) Qual’è l’effetto di un hub o di un repetear su un dominio di collisione ? 
+a) Lo riduce 
+b) Lo allarga 
+c) Lo elimina 
+d) Non ha nessun effetto 
+
+161) Quali delle seguenti affermazioni relative ad uno switch sono vere  ? 
+a) Incapsula i segmenti in pacchetti 
+b) Sono progettati per reti token-ring 
+c) Sono progettati per reti a bus 
+d) Offrono la connettività di un hub con la regolazione del traffico offerta da un bridge 
+
+162) Quali tra le seguenti gestisce i rapporti tra il livello 2 di una tecnologia LAN ed il livello di 
+rete ?  
+Pagina    38   
+ 
+a) FCS 
+b) IEEE 802.3 
+c) LLC 
+d) MAC 
+
+163) Come fa un host ricevente a determinare se esiste un errore nella trasmissione di un frame 
+? 
+a) Controlla il campo lunghezza per essere sicuro che il frame non sia troppo corto 
+b) Paragona l’FCS contenuto nel frame con l’FCS che si ricalcala 
+c) Calcola il checksum del frame e lo ritrasmette al mittente per la verifica 
+d) Controlla lo start frame e lo stop frame per essere sicuro che il campo dati sia di una corretta 
+lunghezza 
+
+164) Quali tra i seguenti sono esempi di tecnologie LAN non deterministiche 
+a) Ethernet 
+b) FDDI 
+c) 802.5 
+d) Token Ring 
+
+165) Quali tra le seguenti affermazioni descrivono un MAC Address 
+a) Le prime sei cifre esadecimali identificano il device e le seconde sei identificano l’OUI 
+b) Le prime sei cifre esadecimali identificano il produttore e le seconde sei identificano il 
+device 
+c) Le prime quattro cifre esadecimali identificano il produttore e le seconde otto identificano il device 
+d) Le prime otto cifre esadecimali identificano il produttore e le seconde quattro identificano il device 
+
+166) Quali fra le seguenti rappresentano uno svantaggio del protocollo CSMA/CD 
+a) Le collisioni possono diminuire le performance della rete 
+b) Il protocollo è più complesso di un protocollo deterministico 
+c) Il protocollo non deterministico rallenta le performance della rete 
+d) Le LAN basate su questa tecnologia hanno una bassa velocità  
+Pagina    39   
+ 
+
+167) Ogni scheda di rete quando riceve un pacchetto lo passa ai livelli superiori quando 
+a) Il DSAP del pacchetto è uguale a quello della scheda di rete 
+b) L’indirizzo IP del pacchetto è uguale a quello del computer 
+c) Il DSAP del pacchetto è un indirizzo broadcast 
+d) Sempre  
+
+168) Le caratteristiche di un segnale a bassa frequenza sono 
+a) Segnale a bassa larghezza di banda 
+b) Segnale persistente 
+c) Segnale direzionale 
+d) Tutte le precedenti 
+
+169) Collegando 10 computer con una maglia interamente connessa, si ha bisogno di 
+a) 10 collegamenti 
+b) 20 collegamenti 
+c) 45 collegamenti 
+d) 100 collegamenti 
+
+170) Una particolare onda elettromagnetica a una frequenza di 10 MHz, la sua lunghezza d’onda 
+sarà : 
+a) 300 metri 
+b) 30 metri 
+c) 3 metri 
+d) 3 centimetri 
+
+171) Quali elementi dettagliati di un pacchetto instradato sono diversi dopo che il pacchetto è 
+giunto a destinazione rispetto ai loro valori originari quando sono partiti dall’host mittente ? 
+a) Mac address del mittente 
+b) Indirizzo Ip del mittente 
+c) Mac Address del destinatario  
+Pagina    40   
+ 
+d) Indirizzo Ip del destinatario 
+
+172) Nella tecnica PCM si prende 1 campione ogni 125 microsecondi ; quali delle seguenti 
+affermazioni sono vere : 
+a) perché si effettuano 8000 campionamenti al secondo 
+b) perché il diagramma di costellazione impone di fare in questo modo 
+c) perché il segnale è caratterizzato da una banda di 4 Khz 
+d) tutte le tre risposte precedenti 
+
+173) Quali di queste sono caratteristiche dell’instradamento dinamico ? 
+a) Le tabelle di instradamento sono mantenute manualmente 
+b) I router condividono i dati 
+c) Usato soprattutto per le reti di piccole dimensioni 
+d) Richiede i protocolli RIP o OSPF 
+
+174) Quando un host sulla rete A invia un messaggio a un host sulla rete B, quale indirizzo viene 
+usato dal router ? 
+a) Di porta  
+b) IP 
+c) fisico 
+d) nessuno dei precedenti 
+
+175) In che tipo di switching ogni pacchetto di uno stesso messaggio può seguire un percorso 
+diverso tra mittente e destinatario ? 
+a) Il circuit switching 
+b) Datagram packed switching 
+c) Circuito virtuale packed switching 
+d) Nessuno dei precedenti 
+ 
+
+176) Il protocollo X.25 per le trasmissione usa  
+Pagina    41   
+ 
+a) Il circuit switching 
+b) Datagram packed switching 
+c) Circuito virtuale packed switching 
+d) Nessuno dei precedenti 
+
+177) In quale tipo di switching tutti i pacchetti di uno stesso messaggio viaggiano lungo lo stesso 
+canale di collegamento ? 
+a) Il circuit switching 
+b) Datagram packed switching 
+c) Circuito virtuale packed switching 
+d) Nessuno dei precedenti 
+
+178) Nella comunicazione dei dati ATM è un acronimo per 
+a) Automatic Teller Machine 
+b) Automatic Transmission Model 
+c) Asynchronous Telecomunication Methodl 
+d) Asynchronous Transfer Mode 
+
+179) Che tipo di switching usa a pieno la capacità del collegamento dedicato 
+a) Il circuit switching 
+b) Datagram packed switching 
+c) Circuito virtuale packed switching 
+d) Nessuno dei precedenti 
+
+180) Nella comunicazione ATM le celle giungono al destinatario nel giusto ordine perché l’ATM è 
+a) Asincrono 
+b) Multiplexed 
+c) Una rete 
+d) Orientata alla connessione 
+
+181) Quali tra i seguenti sono protocolli “connectionless”   
+Pagina    42   
+ 
+a) IP 
+b) ATM 
+c) X.25 
+d) Nessuno dei precedenti 
+
+182) Quali tra le seguenti affermazioni possono descrivere le caratteristiche di un protocollo 
+orientato alla connessione: 
+a) Il protocollo deve scambiare dei messaggi tra i devices prima di trasmettere i dati 
+b) Deve definire delle correlazioni tra i due end-point della comunicazione 
+c) Può trasmettere i dati senza nessuna correlazione tra i due end-point 
+d) Deve includere un Frame Check Sequence (FCS) per il controllo degli errori 
+
+183) Quale è la differenza tra un protocollo di instradamento ed un protocollo di routing ? 
+a) Nessuna perché sono sinonimi 
+b) Il protocollo di instradamento determina il cammino da percorrere, mentre il protocollo 
+di routing determina le tabelle di instradamento in relazione ad una certa topologia di 
+rete 
+c) Il protocollo di routing determina il cammino da percorrere, mentre il protocollo di instradamento 
+determina le tabelle di instradamento in relazione ad una certa topologia di rete 
+d) Nessuna delle precedenti 
+
+184) Cosa è la multiplazione?  
+a) La possibilità di eseguire più compiti concorrentemente. 
+b) Le modalità secondo cui le informazioni emesse da sorgenti diverse condividono la 
+capacità di trasferimento del mezzo di trasmissione. 
+c) La possibilità di eseguire più compiti contemporaneamente con due processori. 
+d) La possibilità di inviare un segnale a lunga distanza 
+
+185) Un algoritmo di routing:  
+a) E’ essenziale per il buon funzionamento dello strato 3 
+b) È essenziale per il funzionamento dello strato 4.  
+Pagina    43   
+ 
+c) Deve sempre cercare il percorso con meno salti all'interno di una rete. 
+d) Può essere di tipo statico o dinamico 
+
+186) Se l’ampiezza di banda è di 20 kHz per un segnale 8-PSK, quale sarà la massima velocità di 
+trasmissione dati secondo il teorema di Nyquist 
+a) 60 Kb/s 
+b) 120 Kb/s 
+c) 160 Kb/s 
+d) 320 Kb/s 
+
+187) Quale device di rete può prendere decisioni di instradamento in relazione all’indirizzo IP ? 
+a) Hub 
+b) Router 
+c) Switch 
+d) Bridge 
+
+188) Relativamente allo standard RS-232 quali delle seguenti affermazioni sono corrette : 
+a) Specifica i dettagli di collegamento tra due dispositivi distanti alcuni chilometri 
+b) Specifica i dettagli di collegamento di una comunicazione asincrona 
+c) Specifica i dettagli di collegamento di una comunicazione sincrona 
+d) Consente di trasmettere un byte alla volta interponendo un intervallo di tempo tra byte 
+e byte che dipende dal mittente 
+
+189) L’accesso base ISDN è costituito da 
+a) Due canali Base di 64 Kbps 
+b) Due canali Base di 64 Kbps + un canale di controllo di 16 Kbps 
+c) Un canale base a 128 Kbps 
+d) Un canale base a 128 Kbps + un canale di controllo di 16 Kbps 
+
+190) Nella multiplazione a divisione di tempo quali delle seguenti affermazioni sono vere 
+a) La parte di banda non utilizzata da un canale di ingresso viene usata dagli altri canali  
+Pagina    44   
+ 
+b) La parte di banda non utilizzata da un canale di ingresso va persa 
+c) È il tipo di multiplazione usato dai canali digitali a lunga distanza 
+d) Non viene quasi mai usata 
+
+191) Sulle reti basate su datagrammi : 
+a) È richiesta la creazione di un circuito 
+b) Ogni pacchetto contiene l’indirizzo mittente e destinazione 
+c) Ogni pacchetto è instradato indipendentemente 
+d) Il guasto di un commutatore non procura effetti devastanti se non quelli di perdita dei 
+pacchetti durante il guasto 
+
+192) In quale classe cadrebbe l’indirizzo 13.245.88.23 
+a) Classe D 
+b) Classe C 
+c) Classe B 
+d) Nessuna delle precedenti 
+
+193) Quali fra gli indirizzi seguenti sono usati per scopi speciali ? 
+a) 127 se usato come primo ottetto in classe B 
+b) 255 se usato come ultimo ottetto in classe B 
+c) 0 se usato come primo ottetto in classe A 
+d) 192 se usato come ultimo ottetto in classe C 
+
+194) Si dica di che tipo è l’indirizzo 169.5.255.255 
+a) Indirizzo IP di un host 
+b) Indirizzo per il broadcasting diretto 
+c) Indirizzo per il broadcasting limitato 
+d) Indirizzo di rete 
+
+195) L’host 124.67.89.34 deve effettuare un test in loopback. Quale indirizzo IP usa come 
+mittente  
+Pagina    45   
+ 
+a) 127.67.89.34 
+b) 124.67.89.34 
+c) 124.67.255.255 
+d) 124.67.0.0 
+
+196) Si dica di che tipo è l’indirizzo 169.5.0.0 
+a) Indirizzo IP di un host 
+b) Indirizzo per il broadcasting diretto 
+c) Indirizzo per il broadcasting limitato 
+d) Indirizzo di rete 
+
+197) Un dispositivo ha due indirizzi IP; potrebbe trattarsi di 
+a) Un computer se ha due schede di rete 
+b) Un router 
+c) Un gateway 
+d) Nessuno dei precedenti 
+
+198) Quali tra gli indirizzi seguenti sono usati per scopi speciali 
+a) 127, se usato come ultimo ottetto di un indirizzo di classe C 
+b) 255 se usato come ultimo ottetto di un dindirizzo di classe B 
+c) 255 se usato come ultimo ottetto di un d’indirizzo di classe C 
+d) 0 se usato come primo ottetto di un indirizzo di classe A 
+
+199) Una rete privata con 300 calcolatori vuole usare uno degli indirizzi riservati alle reti private . 
+Quale è una buona scelta per il netid ? 
+a) 10.0.0 
+b) 172.16 
+c) 192.168.0 
+d) una qualsiasi delle precedenti 
+
+200) Si dica di che tipo è l’indirizzo 169.5.1.1  
+Pagina    46   
+ 
+a) Indirizzo IP di un host 
+b) Indirizzo per il broadcasting diretto 
+c) Indirizzo per il broadcasting limitato 
+d) Indirizzo di rete 
+
+201) Un dispositivo ha due indirizzi IP ; uno è 192.123.46.219, l’altro potrebbe essere 
+a) 192.123.46.220 
+b) 192.123.46.0 
+c) 192.123.47.219 
+d) uno qualsiasi dei precedenti 
+
+202) Quale dei seguenti indirizzi può essere usato come indirizzo destinatario da un host con 
+indirizzo IP 188.1.1.1 per inviare un pacchetto a tutti gli altri host della sua rete 
+a) 188.0.0.0 
+b) 0.0.0.0 
+c) 255.255.255.255 
+d) 188.1.255.255 
+
+203) Un host con indirizzo IP 124.67.89.34 deve effettuare un test di loopback. Quale dei 
+seguenti indirizzi può essere un indirizzo destinatario ? 
+a) 127.67.89.34 
+b) 127.67.89.35 
+c) 124.67.127.0 
+d) 124.67.127.127 
+
+204) L’indirizzo IP 192.68.2.3 è  
+a) Un indirizzo di classe A 
+b) Un indirizzo di classe B 
+c) Un indirizzo di classe C 
+d) Un indirizzo riservato alle reti private  
+Pagina    47   
+ 
+
+205) L’indirizzo seguente  F F F F F F F F F F F F  in un campo destinazione  rappresenta:  
+a) Un indirizzo IP di broadcasting di rete 
+b) Un indirizzo IP riservato 
+c) Un indirizzo MAC multicasting 
+d) Un indirizzo MAC broadcasting 
+
+206) La classe di indirizzi IP che consente di associare ad una data rete il massimo numero di 
+host è:  
+a) La classe C. 
+b) La classe B. 
+c) La classe A. 
+d) Tutte le precedenti 
+
+207) Quali fra i seguenti indirizzi rappresentano un indirizzo di broadcasting in classe B ? 
+a) 147.1.1.1 
+b) 147.13.0.0 
+c) 147.14.255.0 
+d) 147.14.255.255 
+
+208) Quanti host sono effettivamente utilizzabili in una rete in classe C ? 
+a) 128 
+b) 254 
+c) 255 
+d) 256 
+
+209) Per la risoluzione di un indirizzo locale, quali passi intraprende il computer mittente, se non 
+trova l’informazione sulla sua cache ? 
+a) Invia una richiesta al server ARP 
+b) Invia un pacchetto di broadcast a tutti i devices della propria rete locale 
+c) Invia una richiesta al router  
+Pagina    48   
+ 
+d) Verifica se l’informazione si trova nel suo file “HOSTS file” 
+
+210) Quale delle frasi seguenti descrive correttamente la funzione ARP : 
+a) Mette in corrispondenza indirizzi IP con Netbios 
+b) Invia frame sui cavi 
+c) Mette in corrispondenza indirizzi Ip e indirizzi MAC 
+d) Converte i bit in byte 
+
+211) Quale indirizzo fisico ottiene il protocollo ARP quando l’host destinazione si trova su un 
+segmento di rete remoto ? 
+a) ARP restituisce l’indirizzo MAC dell’host di destinazione 
+b) ARP restituisce un indirizzo di broadcasting 
+c) ARP restituisce l’indirizzo MAC del router sul segmento locale 
+d) ARP restituisce l’indirizzo MAC del router sul segmento remoto 
+
+212) Una risposta ARP è inviata in modalità 
+a) Broadcast a tutti gli host 
+b) Unicast ad un host 
+c) Multicast ad un host 
+d) Unicast a tutti gli host 
+
+213) Quale è l’indirizzo di destinazione di una richiesta ARP ? 
+a) Un indirizzo IP broadcasting 
+b) Un indirizzo MAC broadcasting 
+c) L’indirizzo IP di default gateway 
+d) Nessuno dei precedenti 
+
+214) Quali dei seguenti campi costituiscono parte dell'header di un pacchetto IP? 
+a) HLEN (header length) 
+b) MAC address 
+c) TOS (type of service)  
+Pagina    49   
+ 
+d) Sequence number 
+
+215) Quali dei seguenti campi dell’header IP sono modificabili in transito : 
+a) TTL 
+b) Header Checsum 
+c) Identification 
+d) Total Length 
+
+216) Nell’header IP, se l’offset di frammentazione vale 100 allora, 
+a) Il datagramma non è stato frammentato 
+b) La dimensione del datagramma è 100 byte 
+c) Il primo byte del datagramma è il byte 100 
+d) Il primo byte del datagramma è il byte 800 
+
+217) Un datagram viene suddiviso in tre frammenti, allora : 
+a) Il campo di identificazione è uguale in tutti i frammenti 
+b) Il bit divieto di frammentazione vale 1 in tutti i frammenti 
+c) Il bit frammenti ulteriori vale 0 in tutti i frammenti 
+d) Il campo di offset è uguale in tutti i frammenti 
+
+218) La lunghezza massima di un pacchetto IP è 65.535 byte perché 
+a) Nei più comuni protocolli di livello 2 questo è il valore standard 
+b) Il campo lunghezza dell’header IP è di 16 bit 
+c) La definizione non è esatta perché la massima lunghezza è di 65.535 bit 
+d) I protocolli di trasporto superiori non supportano lunghezze maggiori 
+
+219) Nell’header IP se il valore di Hlen è 12 e il campo dimensione totale vale 40000, quale è la 
+dimensione del campo dati ? 
+a) 39988 
+b) 40012 
+c) 40048  
+Pagina    50   
+ 
+d) 39952 
+
+220) Quale campo di un pacchetto IP è utilizzato per prevenire che un pacchetto sia inoltrato 
+all'infinito nella network? 
+a) type-of-service 
+b) identification  
+c) time-to-live  
+d) header checksum  
+
+221) La netmask 255.255.255.252 
+a) Non ha senso 
+b) È una netmask utilizzata tipicamente su reti punto-punto 
+c) È una netmask usata tipicamente su reti LAN 
+d) Sia b che c 
+
+222) Si supponga di avere due PC  A e B con indirizzi rispettivamente 130.192.16.81/24 e 
+130.192.17.66/24 collegati da un router come in figura. Sul lato verso A l’interfaccia del 
+router potrà avere come indirizzo : 
+a) 130.192.16.2/24 
+b) 130.192.16.66/24 
+c) 130.192.16.81/24 
+d) nessun indirizzo perché non c’e’ bisogno del router  
+Pagina    51   
+ 
+ 
+
+223) Basandosi sulla rete in figura l’host A comunica con l’host B  
+a) Sempre 
+b) Mai 
+c) Solo in multicasting 
+d) Solo in broadcasting 
+ 
+
+224) L’indirizzo 10.0.3.16 netmask 255.255.255.252 è un indirizzo assegnabile  
+a) All’interfaccia di un router 
+b) Ad un host 
+c) Non si può assegnare perché è un indirizzo di rete o di sottorete 
+d) Sia a che b 
+
+225) Basandosi sulla rete in figura l’host A può comunicare con l’host B  
+Host A  IP: 172.16.16.75/255.255.0.0 Host B  IP: 172.16.5.16/255.255.0.0
+A
+B
+Host A  IP: 172.16.16.75/255.255.0.0 Host B  IP: 172.16.5.16/255.255.0.0
+A
+B 
+Pagina    52   
+ 
+a) Sempre 
+b) Mai 
+c) Solo se la maschera di sottorete di B fosse 255.255.255.0 
+d) Solo se la maschera di sottorete di B fosse 255.255.254.0 
+ 
+
+226) Quali fra gli indirizzi seguenti rappresenta un esempio di un indirizzo broadcasting in una 
+rete in classe B con una maschera di subnetting di 16 bit ? 
+a) 147.14.255.255 
+b) 147.14.1.1 
+c) 147.14.255.0 
+d) 147.14.0.0 
+
+227) Quali tra i seguenti indirizzi rappresenta una rete che ha 62 host usabili per sottorete ? 
+a) 48.5.255.64/26 
+b) 181.12.167.4/30 
+c) 192.168.31.0/62 
+d) 200.134.6.128/25 
+
+228) Quanti host bits sono disponibili nella maschera di subnetting 255.255.248.0 ? 
+a) 8 
+b) 9 
+c) 11 
+d) 13 
+
+229) Quanti host bits sono disponibili nella maschera di subnetting 255.255.254.0 ? 
+Host A  IP: 172.16.16.75/255.255.0.0 Host B  IP: 172.16.5.16
+A
+B
+Host A  IP: 172.16.16.75/255.255.0.0 Host B  IP: 172.16.5.16
+A
+B 
+Pagina    53   
+ 
+a) 8 
+b) 9 
+c) 11 
+d) 13 
+
+230) Si debbano aggregare le seguenti quattro reti nel miglior modo possibile 10.1.146.0/24, 
+10.1.147.0/24, 10.1.148.0/24, 10.1.149.0/24. Risposta 
+a) 10.1.146.0/22 
+b) 10.1.146.0/23 
+c) 10.1.146.0/23 e 10.1.148.0/23 
+d) non sono aggregabili 
+
+231) L’host A è configurato con indirizzo IP 202.121.74.37 e maschera di sottorete 
+255.255.255.224. A deve inviare informazioni all’host B che è configurato con indirizzo IP 
+202.121.74.66 e maschera di sottorete 255.255.255.224. Quali delle seguenti opzioni è 
+quella giusta ? 
+a) A e B sono su due sottoreti distinte e quindi A dovrà inoltrare le informazioni al suo 
+gateway di default ; 
+b) A e B usano la stessa maschera di sottorete e perciò sono sulla stessa sottorete. Quindi possono 
+comunicare direttamente tra loro 
+c) B è sulla sottorete 201.121.74.224; perciò A e B sono sulla stessa sottorete Quindi possono 
+comunicare direttamente tra loro  
+d) Nessuna delle precedenti 
+
+232) Ad un cliente di un provider sono stati assegnati sei indirizzi di classe C che vanno da 
+223.68.168.0 a 223.68.174.0 Quale maschera di sottorete va usata per raggruppare questi 
+sei indirizzi (CIDR) ? 
+a) 255.255.224.0 
+b) 255.255.240.0 
+c) 255.255.248.0 
+d) 255.255.254.0  
+Pagina    54   
+ 
+
+233) In quale tipo di instradamento nella tabella di routing il mask e l’indirizzo del destinatario 
+sono entrambi 0.0.0.0 
+a) Next hop 
+b) A rete specifica 
+c) Di default 
+d) A host specifico 
+
+234) Quali sono gli indirizzi IP utilizzati dall’indirizzo CIDR 192.168.10.0/20 ? 
+a) Da 192.168.10.0 a 192.168.10.15 
+b) Da 192.168.10.0 a 192.168.25.0 
+c) Da 192.168.10.16 a 192.168.10.31 
+d) Da 192.168.16.0 a 192.168.31.0 
+
+235) In relazione alla figura un computer della rete 192….. trasmette un pacchetto con indirizzo 
+IP  255.255.255.255. Tale pacchetto 
+ 
+a) Viene elaborato dal router A 
+b) Raggiunge tutti i computer della rete 192.168.1.0/24 
+Rete 
+192.168.1.0/24
+Rete 
+10.1.0.0/16
+Rete 
+10.2.0.0/16
+Router B
+Router A
+Rete 
+192.168.1.0/24
+Rete 
+192.168.1.0/24
+Rete 
+10.1.0.0/16
+Rete 
+10.1.0.0/16
+Rete 
+10.2.0.0/16
+Rete 
+10.2.0.0/16
+Router B
+Router B
+Router A
+Router A 
+Pagina    55   
+ 
+c) Raggiunge tutti i computer delle reti connesse al router A 
+d) Nessuna delle precedenti 
+
+236) Gli end system pur avendo un'unica interfaccia hanno le tabelle di routing perchè 
+a) La tabella indica all’end system dove si trova il gateway di default 
+b) La tabella definisce anche in modo esplicito l’indirizzo di broadcast della rete 
+c) La tabella stabilisce una corrispondenza tra l’indirizzo IP e l’indirizzo MAC 
+d) Tutte le precedenti 
+
+237) Il CIDR 
+a) Rappresenta una violazione del modello di servizio IP 
+b) Serve per rappresentare la netmask in forma più compatta 
+c) E’ uno standard per l’aggregazione di più indirizzi di rete per favorire la scalabilità del 
+routing 
+d) Nessuna delle precedenti  
+
+238) Perché un router esegue l’operazione di AND logico ? 
+a) Per determinare l’indirizzo sorgente del pacchetto 
+b) Per determinare l’indirizzo dell’host di destinazione 
+c) Per determinare la rete o la sottorete a cui il pacchetto dovrebbe essere trasmesso 
+d) Per determinare la maschera di sottorete e paragonarla con l’informazione contenuta in una routing 
+table 
+
+239) Ci si sta preparando al subnetting di una rete IP e si deve determinare il numero di ID di 
+rete necessari prima di calcolare la maschera di sottorete giusta. Quali delle seguenti 
+opzioni aiuterebbero a calcolare correttamente il numero degli ID di rete ? 
+a) Calcolare un ID di rete univoco per ciascun segmento della rete delimitato da un router 
+b) Calcolare un ID di rete univoco per ciascuna interfaccia del router 
+c) Calcolare un ID di rete univoco per ciascuna stampante di rete su un segmento 
+d) Nessuna delle precedenti  
+Pagina    56   
+ 
+
+240) Un azienda a cui è stato assegnata una rete di classe B 128.131.0.0 ha 45 segmenti di rete o 
+sottorete ed in un prossimo futuro dovrà supportare almeno 50 nuove sottoreti (95 in 
+totale). Quale maschera di sottorete si dovrà usare perché la rete supporti il maggior 
+numero di host per sottorete ? 
+a) 255.255.0.0 
+b) 255.255.240.0 
+c) 255.255.252.0 
+d) 255.255.254.0 
+
+241) Un azienda a cui è stato assegnata una rete di classe B 128.131.0.0 ha 9 divisioni. Quale 
+maschera di sottorete si dovrà usare perché la rete supporti sino a 3000 host per ogni 
+divisione ? 
+a) 255.255.0.0 
+b) 255.255.240.0 
+c) 255.255.252.0 
+d) 255.255.254.0 
+
+242) Se ci fosse la necessità di assegnare una nuova rete ad una azienda di 35 dipendenti: 
+a) Si acquista un blocco/24 e si usa la netmask naturale 
+b) Si acquista un blocco/24 e si usa la netmask 255.255.255.192 
+c) Si acquista un blocco/24 e si usa la netmask 255.255.255.240 
+d) Si acquista un blocco/24 e si usa la netmask 255.255.255.248 
+
+243) Si riesce a collegarsi con un host con altri host IP sulla sottorete locale, ma si hanno dei 
+problemi a mappare una unità che si trova su una rete remota. Questi problemi non ci sono 
+negli altri host della sottorete. Quale è la prima cosa che si deve controllare ? 
+a) I cavi 
+b) L’indirizzo MAC dell’host locale 
+c) L’indirizzo IP dell’host locale 
+d) L’indirizzo IP del gateway di default  
+Pagina    57   
+ 
+
+244) L’indirizzo 10.0.3.17 netmask 255.255.255.252 è un indirizzo assegnabile  
+a) All’interfaccia di un router 
+b) Ad un host 
+c) Non si può assegnare perché è un indirizzo di rete o di sottorete 
+d) Non si può assegnare perché è un indirizzo speciale 
+
+245) Il messaggio di reindirizzamento in ICMP è inviato alla sorgente da : 
+a) Un host 
+b) Un router 
+c) Da entrambi 
+d) Da nessuno 
+
+246) Il messaggio di tempo scaduto in ICMP è inviato alla sorgente da : 
+a) Un host 
+b) Un router 
+c) Da entrambi 
+d) Da nessuno 
+
+247) Il protocollo ICMP si limita a comunicare con la sorgente  
+a) Perché un datagram comprende solo campi che specificano la sorgente e la 
+destinazione finale 
+b) Perché non vi è alcuna conoscenza esatta dei percorsi in quanto i router possono 
+cambiare le loro tabelle di instradamento 
+c) Perché un messaggio di errore ICMP riguarda esclusivamente la sorgente 
+d) Perché la sorgente è l’unica che può scartare un datagram 
+
+248) Quali dei seguenti messaggi ICMP viene usato per indicare il successo di un ping ? 
+a) Echo reply 
+b) Eccesso di time to live 
+c) Richiesta di informazioni  
+Pagina    58   
+ 
+d) Nessuno dei precedenti 
+
+249) Il valore del campo dimensione nell’header di un datagramma utente (UDP) ha un valore 
+minimo di 
+a) 0 
+b) 8 
+c) 32 
+d) 64 
+
+250) Le frasi che seguono descrivono singole parti dell’handshake a tre passi utilizzato per 
+stabilire una sessione. Quali di queste frasi non è giusta ? 
+a) Ho informazioni per te possiamo stabilire una comunicazione ? 
+b) No, adesso sono occupato e non ho tempo per te. Riprova tra qualche minuto 
+c) Si sono disponibile per la comunicazione. Continua con la tua trasmissione. 
+d) Splendido, ho ricevuto la tua risposta. Ecco il resto delle informazioni 
+
+251) Nell’header TCP qual’e’ il campo usato per mettere in ordine i pacchetti relativi allo stesso 
+messaggio ? 
+a) Puntatore urgente 
+b) Checsum 
+c) Numero di riscontro 
+d) Numero di sequenza 
+
+252) Quale orologio nel protocollo TCP tiene memoria del tempo trascorso tra l’invio di un 
+segmento e la ricezione del riscontro ? 
+a) Di persistenza 
+b) Di ritrasmissione 
+c) Di tempo di attesa 
+d) Di permanenza in attività 
+
+253) Quali delle frasi seguenti descrive nel modo migliore una socket ?  
+Pagina    59   
+ 
+a) Un numero usato per identificare la posizione di un processo su un host remoto 
+b) Un numero di porta utilizzato per identificare la posizione di un processo su un host remoto 
+c) Un numero casuale generato da un server che fornisce a una applicazione l’accesso a un processo 
+su un host remoto 
+d) La combinazione di un numero di porta con un indirizzo IP utilizzata per fornire a una 
+applicazione o a un servizio l’accesso a un processo su un host remoto 
+
+254) Con riferimento alla figura sottostante, se si ottiene il riscontro relativo ai byte 4 e 5 , allora 
+possono essere inviati i byte 
+ 
+                
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 
+   Sliding window    
+ 
+a) Da 8 a 13 
+b) Da 6 a 13 
+c) Da 6 a 15 
+d) Da 8 a 15 
+
+255) Nel protocollo TCP un valore ACK uguale a 1000 vuol dire 
+a) Che 999 sono stati ricevuti con successo 
+b) Che 1000 sono stati ricevuti con successo 
+c) Che il segmento 999 è stato ricevuto con successo 
+d) Che il segmento 1000 è stato ricevuto con successo 
+
+256) Se il numero totale di byte contenuti nell’header TCP è 24 quale sara il valore del campo 
+HLEN ? 
+a) 24 
+b) 12 
+c) 6  
+Pagina    60   
+ 
+d) 2 
+
+257) Che cosa avviene se un segmento TCP non riceve un ACK dopo un certo periodo di tempo ? 
+a) Il circuito virtuale termina 
+b) L’host ritrasmette il segmento 
+c) Il segmento è ritrasmesso usando UDP 
+d) niente 
+
+258) Un server internet sta eseguendo i servizi FTP e http. Come fa a sapere quando riceve un 
+segmento a quale servizio si riferisce ? 
+a) L’header del pacchetto identifica a quale servizio appartiene 
+b) I dati nel segmento hanno una formattazione speciale per i due servizi 
+c) Il numero della porta sorgente è associato con un numero ben noto di porta del server 
+d) Il numero di porta di destinazione contenuta nel segmento identifica a quale servizio 
+appartiene 
+
+259) Quale è lo scopo di un TCP three-way handshake ? 
+a) Aggiusta la larghezza della sliding window 
+b) Stabilisce la presenza di un host destinazione 
+c) Conferma la validità della porta di destinazione 
+d) Sincronizza i numeri di sequenza prima della trasmissione dei dati 
+
+260) Quali dei seguenti campi sono contenuti sia nell’header del TCP sia nell’header dell’UDP ? 
+a) Numero di porta 
+b) Larghezza della finestra 
+c) Numero di sequenza 
+d) Numero ACK 
+
+261) Le frasi che seguono descrivono singole parti dell’hanshake a tre passi utilizzato per 
+stabilire una sessione. Quali di queste frasi è giusta ? 
+a) Ho informazioni per te possiamo stabilire una comunicazione ?  
+Pagina    61   
+ 
+b) No, adesso sono occupato e non ho tempo per te. Riprova tra qualche minuto 
+c) Si sono disponibile per la comunicazione. Continua con la tua trasmissione. 
+d) Splendido, ho ricevuto la tua risposta. Ecco il resto delle informazioni 
+
+262) Il controllo di congestione 
+a) Viene svolto a livello rete 
+b) Viene svolto a livello di trasporto 
+c) Si sviluppa utilizzando l’orologio tempo di attesa 
+d) Viene risolto cercando di regolare la velocità del trasmittente 
+
+263) Il router B riceve un aggiornamento dal router A che segnala che la Rete1 dista due hop. Nel 
+successivo aggiornamento inviato da A l’hop count relativo alla Rete1 è cinque. Che valore 
+viene inserito nella tabella di instradamento di B per l’hopcount della Rete1 ? (protocollo 
+usato RIP) 
+a) 3 
+b) 5 
+c) 6 
+d) 7 
+
+264) Nell’instradamento a vettori di distanza tutti i router ricevono informazioni dirette 
+a) Da tutti i router sulla rete 
+b) Da tutti i router a distanza minore o uguale a due unità 
+c) Da una tabella immagazzinata dagli host della rete 
+d) Solo dai loro vicini 
+
+265) Quale tra le tecniche seguenti causa l’invio di messaggi di aggiornamento  con hop count 
+uguale a 16 per le reti per le quali erano state ricevute informazioni attraverso la stessa 
+interfaccia ? 
+a) Hop count limitato 
+b) Aggiornamento triggered 
+c) Split horizons  
+Pagina    62   
+ 
+d) Poison riverse 
+
+266) L’algoritmo di Dijkstra viene usato per 
+a) Creare un data base sullo stato dei collegamenti 
+b) Costruire la tabella di instradamento 
+c) Irrigare la rete con informazioni 
+d) a e b 
+
+267) Facendo riferimento alla figura, il percorso scelto da RIP tra R6 e R2 è 
+ 
+a) R6 – R4 – R1 – R2 
+b) R6 – R5 – R2 
+c) R6 – R8 – R3 – R5 – R2 
+d) R6 – R1 – R2 
+
+268) Il protocollo di instradamento dinamico RIP è limitato a 15 salti perché : 
+a) La tabella di instradamento usa codici esadecimali per memorizzare i valori dei salti; 
+b) Per impedire un conteggio infinito di percorsi ciclici 
+R1
+R2
+ R4
+R5
+R3
+R6
+R8
+R7
+R1
+R1
+R2
+R2
+ R4
+R4
+R5
+R5
+R3
+R3
+R6
+R6
+R8
+R8
+R7
+R7 
+Pagina    63   
+ 
+c) Per costringere a dividere le reti di grandi dimensioni in sottoreti più piccole 
+d) Nessun sistema di rete ha bisogno di più di 15 salti 
+
+269) Qual è la funzione primaria di un protocollo di routing ? 
+a) Serve agli host per scambiare user data 
+b) Abilita i router a scambiarsi le tabelle di routing 
+c) Serve ai router per scambiarsi user data 
+d) Abilita i router a comunicare con bridge ed hub 
+
+270) Quale dei seguenti protocolli di routing usano una base data topologica 
+a) RIP 
+b) OSPF 
+c) IGRP 
+d) Nessuno dei precedenti 
+
+271) BGP è un protocollo 
+a) Che usa l’algoritmo distance vector 
+b) Che lavora a livello di rete 
+c) Di instradamento tra sistemi autonomi 
+d) Che usa l’algoritmo di Dijkstra 
+
+272) Cosa utilizza un router per aver informazioni sulla topologia della rete? 
+a) protocolli di routing  
+b) indirizzi MAC  
+c) indirizzi RARP 
+d) indirizzi IP 
+
+273) Come viene classificata una risposta DNS se le informazioni provengono da una memoria 
+cache ? 
+a) Autorevole 
+b) Non autorevole  
+Pagina    64   
+ 
+c) Iterativa  
+d) Ricorsiva 
+
+274) Quale dei seguenti nomi di dominio usa un dominio nazionale per risolvere il suo indirizzo 
+IP ? 
+a) chal.atc.fhda.edu 
+b) kenz.acct.sony.jp 
+c) mac.eng.madrid.es 
+d) gsfc.nasa.gov 
+
+275) In quale tipo di risoluzione il client è in contatto diretto con più di un server ? 
+a) Ricorsiva 
+b) Iterativa 
+c) Multimodale 
+d) Asincrona 
+
+276) In quale tipo di risoluzione il client è in contatto diretto con un solo server ? 
+a) Ricorsiva 
+b) Iterativa 
+c) Multimodale 
+d) Asincrona 
+
+277) Nell’header di un messaggio DNS il campo “query name” 
+a) Non esiste 
+b) È a lunghezza variabile 
+c) Contiene informazioni relative al nome da risolvere 
+d) Contiene informazioni relative al tipo di richiesta da effettuare 
+
+278) Un resolver è 
+a) Un client DNS 
+b) Un server DNS  
+Pagina    65   
+ 
+c) Un host 
+d) Un root server 
+
+279) Nel protocollo DHCP quale messaggio propone un indirizzo IP al client ? 
+a) DHCPOFFER 
+b) DHCPACK 
+c) DHCPDISCOVER 
+d) DHCPREQUEST 
+
+280) Quale protocollo può fornire ad un calcolatore privo di disco il suo indirizzo IP ? 
+a) RARP 
+b) ARP  
+c) BOOTP 
+d) IGP 
+
+281) Nel Protocollo DHCP il client non invia 
+a) Dhcpdiscover 
+b) Dhcpoffer 
+c) Dhcprequest 
+d) Dhcpack 
+
+282) Il metodo head nella richiesta http indica 
+a) Di restituire l’oggetto 
+b) Di aggiornare la data di creazione dell’oggetto 
+c) Di restituire solo le informazioni relative all’oggetto 
+d) Di aprire una connessione con il server 
+
+283) In quale tipo di risoluzione il server è in contatto diretto con più di un server ? 
+a) Ricorsiva 
+b) Iterativa  
+Pagina    66   
+ 
+c) Multimodale 
+d) Asincrona 
+
+284) Quali tra i seguenti modelli ed architetture sono considerati “standard de jure” 
+a) IEEE 802 
+b) IBM SNA 
+c) TCP/IP 
+d) OSI 
+
+285) Quale è la funzione principale dello stato di trasporto ? 
+a) Individuazione dell’indirizzo fisico del destinatario 
+b) Consegna processo-processo del messaggio 
+c) Instradamento 
+d) aggiornamento e gestione delle tabelle di instradamento 
+
+286) Quale dei seguenti protocolli di routing usano una base dati topologica 
+a) RIP 
+b) OSPF 
+c) IGRP 
+d) Nessuno dei precedenti 
+
+287) Quale indirizzo fisico ottiene il protocollo ARP di un host sorgente quando l’host 
+destinazione si trova su un segmento di rete remoto ? 
+a) ARP restituisce l’indirizzo MAC dell’host di destinazione 
+b) ARP restituisce un indirizzo di broadcasting 
+c) ARP restituisce l’indirizzo MAC del router sul segmento locale 
+d) ARP restituisce l’indirizzo MAC del router sul segmento remoto 
+
+288) I rapporti tra il livello 2 di una tecnologia LAN ed il livello di rete  sono gestiti da : 
+a) Frame Control Sequence 
+b) Progetto IEEE 802.3  
+Pagina    67   
+ 
+c) Logical Link Control 
+d) MAC address dell’host 
+
+289) Quali delle seguenti affermazioni sono vere : 
+a) Un MAC address composto di tutti zero rappresenta un indirizzo di broadcast 
+b) I MAC address sono usati dai bridge per prendere decisioni di instradamento e filtraggio 
+c) I MAC address sono usati dai repeater per prendere decisioni di instradamento e filtraggio 
+d) Il MAC address ha una struttura gerarchica 
+
+290) Quale indirizzo viene definito a livello 2 del modello ISO/OSI ? 
+a) Indirizzo IP 
+b) Indirizzo MAC 
+c) Indirizzo di porta 
+d) Nessuna delle precedenti 
+
+291) Quale sottolivello comunica direttamente con la scheda di rete ? 
+a) LLC 
+b) MAC 
+c) PDU 
+d) IP 
+
+292) Qual’è l’effetto di un hub o di un repetear su un dominio di collisione ? 
+a) Lo riduce 
+b) Lo allarga 
+c) Lo elimina 
+d) Non ha nessun effetto 
+
+293) Qual è l’effetto di un hub o di un repetear su un dominio di collisione ? 
+a. Lo riduce 
+b. Lo allarga 
+c. Lo elimina  
+Pagina    68   
+ 
+d. Non ha nessun effetto 
+
+294) Quali sono le differenze tra numeri binari e decimali? (due risposte) 
+a) numeri decimali non hanno stati 
+b) i computer utilizzano numeri binari e la gente normalmente usa numeri decimali 
+c) i numeri decimali sono basate su potenze di uno ed i numeri binari sono basati su 
+potenze di 2 
+d) i numeri digitati su una tastiera sono inseriti come binari e convertiti in decimali dal computer 
+e) numeri binari si basano sulle potenze di 2 e numeri decimali sono basati su potenze di 
+10 
+f) numeri binari sono composti da tre stati: on, off, null 
+
+295) Quale comando accende un'interfaccia del router? 
+a)  router(config-if) no down 
+b)  router (config-if)#s0 active 
+c)  router(config-if)#interface up 
+d)  router(config-if)#enable 
+e)  router(config-if)no shutdown 
+
+296) Nei datagram in formato IP4, gli indirizzi IP sono costituiti da 
+a) 256 bit 
+b) 32 bit 
+c) 64 bit 
+d) 128 bit 
+
+297) Quanti host bits sono disponibili nella maschera di subnettin 255.255.248.0? 
+a) nessuna delle precedenti 
+b) 12 
+c) 10 
+d) 8  
+Pagina    69   
+ 
+
+298) Quale livello Osi è associato l'indirizzamento IP? 
+a) 3 
+b) 1 
+c) 2 
+d) 4 
+
+299) Per quale motivo gli host usano gli indirizzi del livello data links? 
+a) remote delivery 
+b) local and remote delivery 
+c) remote delivery using routers 
+d) local delivery 
+
+300) Cosa si ottiene dal processo di incapsulamento al livello Data link? 
+a) i dati vengono converiti per la trasmissione internet 
+b) i dati vengono confezionati nei pacchetti 
+c) i pacchetti vengono divisi nei segmenti 
+d) i pacchetti vengono messi nei frames 
+
+301) Che tipi di indirizzamento possiamo trovare nel livello OSI 2? (due risposte) 
+g. IP 
+h. logical 
+i. physical 
+j. MAC 
+k. port 
+
+302) Quale sequenza di comandi consentirà l'accesso a cinque virtual terminal lines con 
+unapassword Cisco? 
+ a)  router (confing) #configure telnet 
+   router(confing-line)#password cisco 
+router(confing-line)#session 0 4  
+Pagina    70   
+ 
+router(confing)#line tvy 0,4 
+– router (confing-line)#login 
+router(confing-line)#password cisco 
+
+303) La rete telefonica è un tipo di rete: 
+a) che non usa protocolli 
+b) a commutazione di circuito (circuit-switched) 
+c) a commutazione di pacchetto (packet-switched) 
+d) basata solo sull'uso dei satelliti 
+
+304) Quale problema di livello di rete viene evitato, o ridotto, usando un appropriato 
+indirizzamento end-to-end? 
+a) riduce i broadcast inutili 
+b) riduce la possibilità di cicli infiniti 
+c) riduce il numero degli infinity problems 
+d) evita split horizons 
+
+305) I servizi del livello delle applicazioni: 
+a) ve ne sono alcuni sensibili ed altri insensibili 
+b) sono tutti sensibili alla perdita di dati 
+c) tutte le precedenti 
+d) sono tutti insensibili alla perdita dei dati 
+
+306) Un amministratore di rete deve configurare una interfaccia seriale con un indirizzo IP. La 
+configurazione  deve inoltreil sito rem.. comandi soddisfa questi requisiti? 
+a. chicago (conging)#description san jose T1 
+b. chiago(confing)#interface serial0/0 
+c. chicago(confing-line)#ip address 192.168.204.9 255.255.255.252 
+b) (sarà esatta l'ultima k non sono riuscita a fotografarla) 
+
+307) Quale livello OSI ha come caratteristica acknowledgements, sequencing, andflow control?  
+Pagina    71   
+ 
+– layer 4 
+
+308) In che tipo di switching ogni pacchetto di uno stesso messaggio segue sempre il medesimo 
+percorso tra mittente e destinatario 
+a. datagram packed switching 
+b. tutti i precedenti il circuit switching 
+c. circuito virtuale packed switching 
+
+309) Per utilizzare attraverso una rete una stampante collegata ad un'altra postazione di 
+lavoro, fra il nostro computer e quello...intercorrere una relazione di tipo: 
+a. client/server 
+b. HTML/URL 
+c. browser/server 
+
+310) A che livello troviamo nella gerarchia ISO-OSI il protocollo POP? 
+a. fisico 
+b. applicazione 
+c. rete 
+d. trasporto 
+
+311) Attraverso quale processo un cavo UTP aiuta ad evitare interferenze? 
+a. Messa a terra dei punti finale 
+b. cladding in cable 
+c. schermatura del cavo 
+d. twisting of pairs 
+
+312) Il server dei nomi fondamentali del servizio DNS 
+a) è uno dei tipi di name server usati nel DNS 
+b) server per tradurre hostname in indirizzi IP 
+c) per ogni hostname conosce l'indirizzo IP del server dei nomi assoluto per tale hostname 
+d) conosce gli indirizzi IP di tutti i calcolatori del mondo  
+Pagina    72   
+ 
+e) conosce gli indirizzi IP di tutti i calcolatori connessi alla rete 
+
+313) Quali tipi di problemi sono causati da un eccessivo traffico di trasmissioni su un segmento 
+di rete? 
+a) consumo della network bandwidth 
+b) divide reti basate su proprietà 
+c) interruzione delle altre funzioni host 
+d) aumento del sovraccarico sulla rete 
+e) richiede schemi di indirizzo complessi 
+
+314) Quali tre parti fondamentali sono comuni a tutti i tipi di frame supportati dal livello di 
+collegamento dati? (Tre risposte.) 
+a) header 
+b) MTU size 
+c) trailer 
+d) CRC valute 
+e) data 
+f) type field 
+
+315) Che cosa determina quanti dati di una stazione di invio esecuzione TCP/IP possono essere 
+trasmessi prima di ricevere un riconoscimento? 
+a) sequence numeber 
+b) segment size 
+c) bandwindth             ? 
+d) trasmission rate 
+e) window size 
+
+316) Quando un server risponde ad una richiesta web, cosa si verifica successivamente al 
+processo dopo che i dati della pagina web di incapsulamento vengono formattati e suddivisi 
+in segmenti TCP?  
+Pagina    73   
+ 
+a) Il client aggiunge gli indirizzi fisici appropriati per i segmenti in modo che il server può trasmettere i 
+dati. 
+b) Il client decapsula il segmento e si apre la pagina web. 
+c) Il server aggiunge la fonte e l'indirizzo IP di destinazione per ogni intestazione del segmento al fine di 
+consegnare i pacchetti alla destinazione. 
+d) Il server converte i dati in bit per trasporto attraverso il mezzo. 
+e) Il server aggiunge la fonte e gli indirizzi fisici di destinazione all'intestazione del 
+pacchetto. 
+ 
+
+317) Si abbia il seguente network address 193.205.92.0 con una subnet mask di 255.255.255.0. 
+Quali delle seguenti affermazioni sono vere? 
+a) Ci sono 30 subnet usabili 
+b) Ci sono 255 host usabili per subnet 
+c) Ci sono 64 subnet usabili 
+d) Ci sono 254 usabili host per subnet 
+e) C’è una sola rete usabile 
+f) Ci sono 64 usabili host per subnet. 
+
+318) Il campo TTL (tempo di vita) nei datagram IP4 serve per 
+a) limitare il numero massimo di salti (hop) che i datagram possono effettuare nella rete 
+b) evitare che alcuni datagram circolino per sempre nella rete 
+c) limitare la dimensione massima dei messaggi 
+d) limitare il tempo di utilizzo di un collegamento 
+
+319) Quali tre strati del modello OSI compongono lo strato di applicazione del modello TCPIIP? 
+(Scegliere tre.) 
+a)   Presentation 
+b)   Session 
+c)   Transport 
+d)   Network 
+e)   Data link 
+f)   Application 
+
+320) Quali dei seguenti indirizzi rappresentano un indirizzo unicast? 
+a) FFFF.FFFF.FFFF 
+b) 255.255.255.255 
+c) 224.1.5.2 
+d) 92.168.24.59/30  
+Pagina    74   
+ 
+e) 172.31.128.255./24 (? Non so se i punto finale è sbagliato o meno) 
+
+321) Il protocollo TCP: 
+a) usa il meccanismo dei riscontri di Go-Back-N 
+b) fornisce un servizio full-duplex 
+c) rispedisce tutti i segmenti con numero di sequenza successivo al segmento non riscontrato 
+correttamente 
+d) usa i riscontri cumulativi 
+e) garantisce una valore di banda minimo  
+
+322) Quale tra queste frasi riguardo gli IP network addresses è giusta? 
+a) è assegnato l'indirizzo più alto in un range 
+b) tutti gli host bit sono impostati a 1 
+c) tutti i network bit sono impostati a 1 
+d) tutti gli host bit sono impostati a 0 
+
+323) Nel paragonare una Fast Ethernet con una 10baseT Ethernet quali delle seguenti 
+affermazioni sono vere (Tre risposte): 
+a) Fast ethernet ha una velocità 100 volte superiore della 10baseT 
+b) Fast ethernet è basata su una estensione delle specifiche IEEE 802.3 
+c) Fast ethernet usa lo stesso formato del frame della 10baseT 
+d) Fast ethernet usa la stessa MTU  
+
+324) A quale strato del modello OSI operano i bridge? 
+a) Rete 
+b) Data link 
+c) Trasporto 
+d) Fisico 
+
+325) Gli End System utilizzano numeri di porta per selezionare l'applicazione appropriata. Qual 
+è il numero di porta più piccolo che può essere assegnato dinamicamente da un sistema 
+host? 
+a) 1 
+b) 64 
+c) 128 
+d) 512 
+e) 256 
+f)            1024 
+
+326) Qual è lo scopo dei numeri di porta TCP / UDP?  
+Pagina    75   
+ 
+a) riassemblare i segmenti nell'ordine corretto 
+b) individuare il numero di pacchetti di dati che possono essere inviati senza conferma 
+c) indicare l'inizio di un three-way handshake 
+d) tracciare le diverse conversazioni che attraversano la rete allo stesso tempo 
+
+327) Quali fra i seguenti parametri influisce direttamente sulla velocità di scaricamento di un 
+documento via Web? 
+a) la distanza fisica fra la nostra postazione e il server 
+b) la larghezza di banda del canale fra la nostra postazione e il server 
+c) la banda di rete effettivamente disponibile fra la nostra postazione e il server  
+
+328) Cosa descrive meglio lo scopo del Physical Layer? 
+a) Definisce le specifiche funzionali per collegamento tra end system e segnali elettrici, 
+ottici e radio. 
+b) Stabilisce il Physical addressing, topologia di rete e di accesso ai media 
+c) Determina la connettività e la selezione del percorso tra due sistemi terminali 
+d) Assicura una trasmissione affidabile di dati attraverso un collegamento fisico 
+
+329) Quali dei seguenti protocolli usano ICMP? 
+a) http 
+b) Smtp 
+c) Ping 
+d) Traceroute 
+
+330) Quanti host bits sono disponibili nella maschera di subnetting 255.255.248.0? 
+a) 12 
+b) 10 
+c) 8 
+d) Nessuna delle precedenti 
+
+331) Quali sono le differenze tra numeri binari e decimali? (Due risposte.) 
+a) I numeri digitati su una tastiera sono inseriti come binari e convertiti in decimali dal computer. 
+b) Numeri binari sono composti da tre stati: on, off, null. 
+c) I computer utilizzano numeri binari e la gente normalmente usa numeri decimali. 
+d) I numeri decimali sono basate su potenze di 1 ed i numeri binari sono basati su potenze di 2. 
+e) Numeri binari si basano sulle potenze di 2 e numeri decimali sono basati su potenze 
+di 10. 
+f) Numeri decimali non hanno stati. 
+
+332) Quali protocolli usano l'autenticazione e la crittografia per proteggere i dati che viaggiano 
+tra il client e il server? (Due risposte)  
+Pagina    76   
+ 
+a) HTTP 
+b) HTTPS 
+c) SMTP 
+d) DNS 
+e) SSH 
+
+333) Che cos'è Internet? 
+a) Una rete a commutazione di pacchetto 
+b) una rete che funziona "broadcast" 
+c) Una rete senza centro 
+d) Una rete a commutazione di circuito 
+
+334) Quale tra i seguenti è un sottolivello del livello Data Link? 
+a) MAC,LAC 
+b) MAC,LLC 
+c) ACL,LMC 
+d) OSI,LLC 
+
+335) Quale sottolivello comunica direttamente con la scheda di rete? 
+a) MAC 
+b) IP 
+c) LLC 
+d) PDU 
+ 
+ 
+ 
+ 
+1) Si	  debbano	  aggregare	  le	  seguenti	  quattro	  reti	  10.1.146.0/24,	  10.1.147.0/24,	  10.1.148.0/24,	  10.1.149.0/24.	  Quale	  tra	  i	  seguenti	  è	  il	  miglior	  modo	  possibile?	  a) 10.1.146.0/23	  b) 10.1.146.0/22	  c) 10.1.146.0/23	  e	  10.1.148.0/23	  d) 10.1.144.0/21	  	  
+2) Nei	  datagram	  in	  formato	  IP4	  gli	  IP	  sono	  costituiti	  da:	  a) 256	  bit	  b) 32	  bit	  c) 64	  bit	  d) 128	  bit	  	  
+3) Sulle	  reti	  basate	  su	  datagrammi:	  a) Ogni	  pacchetto	  contiene	  l’indirizzo	  mittente	  e	  destinazione.	  b) È	  richiesta	  la	  creazione	  di	  un	  circuito	  c) Il	  guasto	  di	  un	  commutatore	  non	  procura	  effetti	  devastanti	  se	  non	  quelli	  di	  perdita	  dei	  pacchetti	  durante	  il	  guasto.	  d) Ogni	  pacchetto	  è	  instradato	  indipendentemente.	  	  
+4) Quale	  problema	  di	  livello	  di	  rete	  viene	  evitato,	  o	  ridotto,	  usando	  un	  appropriato	  indirizzamento	  end-­‐to-­‐end	  a) Evita	  split	  horizons	  b) Riduce	  la	  possibilità	  di	  cicli	  infiniti	  c) Riduce	  il	  numero	  degli	  infinity	  problems	  d) Riduce	  i	  broadcast	  inutili	  	  
+5) Nel	  paragonare	  una	  fast	  ethernet	  con	  una	  10baseT	  ethernet.	  Quali	  delle	  seguenti	  affermazioni	  sono	  vere(tre	  risposte)	  a) fast	  ethernet	  ha	  una	  velocità	  100	  volte	  superiore	  della	  10baseT	  b) fast	  ethernet	  è	  basata	  su	  una	  estensione	  delle	  specifiche	  IEEE	  802.3	  c) fast	  ethernet	  usa	  lo	  stesso	  formato	  del	  frame	  della	  10baseT	  	  d) fast	  ethernet	  usa	  la	  stessa	  MTU	  	  
+6) Quale	  schema	  di	  indirizzamento	  del	  livello	  data	  link	  è	  usato	  in	  una	  topologia	  point-­‐to-­‐point?	  a) Ring	  addressing	  b) Ipv4	  addressing	  c) Multi-­‐access	  addressing	  d) Layer	  2	  addressing	  not	  required	  for	  this	  topology	  e) Ipv6	  addrssing	  	  
+7) Quale	  tipo	  di	  indirizzo	  ha	  tutti	  i	  bit	  relativi	  agli	  host	  impostati	  ad	  1?	  a) Broadcast	  b) Network	  c) Unicast	  d) Host	  	  
+8) A	  livello	  di	  trasporto,	  quale	  dei	  seguenti	  controlli	  viene	  utilizzato	  per	  evitare	  che	  l’host	  che	  sta	  trasmettendo	  mandi	  in	  overflow	  i	  buffer	  dell’host	  che	  riceve?	  a) Congestion	  avoidance	  b) Encryption	  c) Best	  effort	  d) Compression	  e) flow	  control	  	  	  
+9) A	  che	  livello	  troviamo	  nella	  gerachia	  ISO/OSI	  il	  protocollo	  POP?	  a) Applicazione	  b) Rete	  	  c) Trasporto	  d) Fisico	  	  
+10) Nell’header	  TCP	  qual	  è	  il	  campo	  usato	  per	  mettere	  in	  ordine	  i	  pacchetti	  relativi	  allo	  stesso	  messaggio?	  a) Puntatore	  urgente	  b) Checksum	  c) Numero	  della	  sequenza	  d) Numero	  di	  riscontro	  	  
+11) Un	  “router”	  è:	  a) Un	  sinonimo	  di	  bridge	  b) un	  dispositivo	  del	  livello	  di	  collegamento	  dei	  dati(data	  link	  layer)	  c) Un	  dispositivo	  del	  livello	  di	  rete	  utilizzato	  per	  il	  trasferimento	  affidabile	  dei	  file	  d) Un	  dispositivo	  del	  livello	  di	  rete	  utilizzato	  per	  l’instradamento	  di	  unità	  di	  dati	  nel	  loro	  percorso	  tra	  nodo	  mittente	  e	  nodo	  destinatario	  	  
+12) Data	  una	  subnetmask	  255.255.255.224,	  quali	  dei	  seguenti	  indirizzi	  possono	  essere	  assegnati	  agli	  host?(3	  risp)	  a) 134.178.18.56	  b) 201.45.116.159	  c) 92.11.178.93	  d) 15.234.118.63	  e) 192.168.16.87	  f) 217.63.12.192	  	  
+13) Riferendosi	  alla	  figura	  in	  cui	  l’host	  TK1	  ha	  stabilito	  una	  connessione	  http	  con	  il	  server	  collegato	  all’interfaccia	  E0	  del	  router	  TestKing2;	  quali	  delle	  seguenti	  affermazioni	  sono	  vere:	  a) L’IP	  address	  di	  destinazione	  del	  pacchetto	  sarà	  l’IP	  address	  della	  network	  interface	  dell’http	  server	  b) l’IP	  address	  di	  destinazione	  del	  pacchetto	  sarà	  l’IP	  address	  dell’interfaccia	  E0	  del	  router	  TestKing2	  c) Il	  numero	  della	  porta	  di	  destinazione	  nell’header	  del	  segmento	  avrà	  un	  valore	  di	  80	  	  d) L’indirizzo	  di	  destinazione	  di	  un	  frame	  sarà	  il	  Mac	  Andress	  dell’interfaccia	  E0	  del	  router	  TestKing2.	  e) L’indirizzo	  di	  destinazione	  di	  un	  frame	  sarà	  il	  Mac	  Andress	  dell’http	  server	  interface	  f) Il	  numero	  della	  porta	  di	  destinazione	  nell’header	  del	  segmento	  avrà	  un	  unico	  valore	  più	  grande	  o	  uguale	  a	  1023	  	  
+14) La	  funzione	  di	  ogni	  livello	  a) È	  quella	  di	  offrire	  servizi	  al	  livello	  inferiore.	  b) E	  quella	  di	  determinare	  il	  protocollo	  del	  livello	  c) È	  quella	  di	  offrire	  servizi	  al	  livello	  immediatamente	  superiore	  d) Permette	  al	  livello	  superiore	  di	  ignorare	  i	  dettagli	  del	  funzionamento	  dei	  servizi	  implementati	  	  
+15) Qual	  è	  a	  funzione	  primaria	  di	  un	  protocollo	  di	  Routing?	  a) Abilita	  i	  router	  a	  comunicare	  con	  bridge	  ed	  hub	  b) Serve	  agli	  host	  per	  scambiare	  user	  data	  c) Serve	  ai	  router	  per	  scambiarsi	  user	  data	  d) Abilita	  i	  router	  a	  scambiarsi	  le	  tabelle	  di	  Routing.	  
+16) Come	  sono	  le	  collisioni	  rileva	  su	  una	  rete	  ethernet?	  a) L’ampiezza	  del	  segnale	  sul	  supporto	  di	  rete	  è	  superiore	  al	  normale.	  b) Le	  stazioni	  identificano	  il	  campo	  FCS	  sui	  pacchetti	  in	  collisione.	  c) L’ampiezza	  del	  segnale	  sul	  supporto	  di	  rete	  è	  più	  bassa	  del	  normale.	  d) Il	  traffico	  sulla	  rete	  non	  può	  essere	  rilevato	  causa	  di	  un	  blocco.	  	  
+17) Nell’header	  IP,	  se	  l’offset	  di	  frammentazione	  vale	  100	  allora:	  a) Il	  primo	  byte	  del	  datagramma	  è	  il	  byte	  800	  b) La	  dimensione	  del	  datagramma	  è	  100	  byte	  c) Il	  primo	  byte	  del	  datagramma	  è	  il	  byte	  100	  d) Il	  datagramma	  non	  è	  stato	  frammentato	  	  
+18) Il	  campo	  TTL	  (tempo	  di	  vita)	  nei	  datagram	  IP4	  serve	  per:	  a) Limitare	  il	  numero	  massimo	  di	  salti(hop)	  che	  i	  datagram	  possono	  effettuare	  nella	  rete.	  b) Evitare	  che	  alcuni	  datagram	  circolino	  per	  sempre	  nella	  rete	  c) Limitare	  il	  tempo	  di	  utilizzo	  di	  un	  collegamento	  d) Limitare	  la	  dimensione	  massima	  dei	  messaggi.	  	  
+19) Quale	  comando	  visualizza	  le	  statistiche	  per	  tutte	  le	  interfacce	  configurate	  su	  un	  router?	  a) Show	  statics	  b) List	  interfaces	  c) Show	  processes	  d) Show	  interfaces	  	  
+20) Quali	  sono	  i	  tre	  pezzi	  di	  informazioni	  che	  non	  sono	  contenuti	  in	  una	  tabella	  di	  Routing?(3	  risp)	  a) Destination	  network	  Andress	  b) Metric	  	  c) Default	  Gateway	  d) Source	  host	  address	  e) Next	  hop	  f) last	  hop	  	  	  
+21) Gli	  indirizzi	  di	  livello	  3	  	  a) Sono	  generalmente	  costituiti	  da	  due	  parti	  introducendo	  il	  concetto	  di	  gruppo	  b) Sono	  dipendenti	  dal	  tipo	  di	  applicazione	  da	  eseguire	  c) Sono	  usati	  senza	  tenere	  conto	  del	  tipo	  di	  mezzo	  trasmissivo.	  d) Sono	  tipici	  del	  mezzo	  trasmissivo	  	  
+22) Che	  tipo	  di	  protocol	  data	  unit	  è	  gestito	  da	  un	  router?	  a) Segmenti	  b) Frame	  c) Pacchetti	  d) Bit	  	  
+23) L’host	  Alberto	  è	  configurato	  con	  l’indirizzo	  IP	  	  202.121.74.37	  e	  maschera	  255.255.255.224.	  Alberto	  deve	  inviare	  informazioni	  all’host	  Golia	  che	  è	  configurato	  con	  l’indirizzo	  IP	  202.121.74.66	  e	  maschera	  255.255.255.224.	  quale	  delle	  seguenti	  opzioni	  è	  quella	  giusta?	  a) Alberto	  e	  	  Golia	  usando	  la	  stessa	  maschera	  di	  sottorete	  sono	  sulla	  stessa	  sottorete.	  b) Golia	  è	  sulla	  sottorete	  202.121.74.224;	  perciò	  Alberto	  e	  Golia	  sono	  sulla	  stessa	  sottorete.	  c) L’indirizzo	  di	  Golia	  non	  può	  essere	  assegnato.	  d) Alberto	  e	  Golia	  sono	  su	  due	  sottoreti	  distinte.	  	  
+24) Un’azienda	  a	  cui	  è	  stata	  assegnata	  una	  rete	  di	  classe	  B	  128.131.0.0	  ha	  9	  divisioni.	  Quale	  maschera	  di	  sottorete	  si	  dovrà	  usare	  perché	  la	  rete	  supporti	  sino	  a	  3000	  host	  per	  ogni	  divisione?	  a) 255.255.252.0	  b) 255.255.254.0	  c) 255.255.0.0	  d) 255.255.240.0	  	  	  
+25) Quali	  tipi	  di	  problemi	  sono	  causati	  da	  un	  eccessivo	  traffico	  di	  trasmissioni	  su	  un	  segmento	  di	  rete?(3	  risp)	  a) Divide	  reti	  basate	  su	  proprietà	  b) Richiede	  schemi	  di	  indirizzo	  complessi	  c) Consumo	  della	  network	  bandwidth	  d) Interruzione	  delle	  altre	  funzioni	  host	  e) Interrompe	  le	  altre	  funzioni	  dell’host	  f) Aumento	  del	  sovraccarico	  sulla	  rete.	  	  
+26) Che	  fattore	  primario	  dovrebbe	  essere	  considerato	  prima	  di	  utilizzare	  la	  tecnologia	  wireless?	  a) Identificazione	  e,	  se	  possibile,	  minimizzazione	  delle	  fonti	  RFI	  b) Ridondanza	  nell’alimentazione	  	  c) FCC	  address	  assignment	  d) La	  selezione	  di	  uno	  switch	  capace	  auto-­‐MDIX	  	  
+27) Che	  cos’è	  internet?	  a) Una	  rete	  senza	  centro	  b) Una	  rete	  a	  commutazione	  di	  circuito	  c) Una	  rete	  a	  commutazione	  di	  pacchetto	  d) Una	  rete	  che	  funziona	  “broadcast”	  	  
+28) Quali	  dei	  seguenti	  campi	  dell’header	  IP	  sono	  modificabili	  in	  transito?	  a) Header	  checksum	  	  b) Total	  length	  c) Identificatio	  d) Indirizzo	  IP	  di	  destinazione	  e) TTL	  	  
+29) Facendo	  riferimento	  all’immagine,	  l’host	  A	  ha	  raggiunto	  il	  50%	  del	  completamente	  in	  invio	  di	  un	  frame	  ethernet	  da	  1	  KB	  all’host	  D	  quando	  l’host	  B	  vuole	  trasmettere	  il	  proprio	  frame	  all’host	  C.	  che	  cosa	  deve	  fare	  l’host	  B?	  a) Host	  B	  deve	  attendere	  fino	  a	  che	  non	  sia	  certo	  che	  l’host	  A	  	  abbia	  completato	  l’invio	  del	  suo	  frame	  b) Host	  B	  deve	  attendere	  per	  riceve	  una	  trasmissione	  CSMA	  dall’hub,	  che	  segnala	  il	  suo	  turno.	  c) Host	  B	  può	  trasmettere	  immediatamente	  poiché	  connesso	  sul	  proprio	  cable	  segment.	  d) Host	  B	  deve	  inviare	  un	  segnale	  di	  richiesta	  Hostfix	  trasmettendo	  un	  gap	  interframe.	  	  
+30) Quanti	  host	  sono	  effettivamente	  utilizzabili	  in	  una	  rete	  in	  classe	  C?	  a) 254	  b) 128	  c) 64	  d) 256	  e) 255	  	  
+31) Quale	  delle	  frasi	  seguenti	  descrive	  nel	  modo	  migliore	  una	  socket?	  a) Un	  numero	  usato	  per	  identificare	  la	  posizione	  di	  un	  processo	  su	  un	  host	  remoto	  b) Un	  numero	  di	  porta	  utilizzato	  per	  identificare	  la	  posizione	  di	  un	  processo	  su	  un	  host	  remoto	  c) La	  combinazione	  di	  un	  numero	  di	  porta	  con	  un	  indirizzo	  IP	  utilizzata	  per	  fornire	  ad	  una	  applicazione,	  o	  a	  un	  servizio,	  l’accesso	  ad	  un	  processo	  su	  un	  host	  remoto	  d) Un	  numero	  casuale	  generato	  da	  un	  server	  che	  fornisce	  ad	  un’applicazione	  accesso	  ad	  un	  processo	  su	  un	  host	  remoto	  	  
+32) Quali	  sono	  i	  vantaggi	  nell’utilizzare	  cavi	  in	  fibra	  ottica	  su	  un	  cavo	  in	  rame?(3	  risp)	  a) La	  lunghezza	  massima	  del	  cavo	  è	  maggiore	  b) Un’attenta	  gestione	  del	  cavo	  c) Il	  rame	  è	  più	  costoso	  d) L’efficiente	  trasferimento	  di	  corrente	  elettrica	  e) Un	  maggior	  potenziale	  della	  larghezza	  di	  banda	  	  f) L’immunità	  alle	  interferenze	  elettromagnetiche	  	  
+33) Qual	  è	  la	  ragione	  principale	  per	  lo	  sviluppo	  Ipv6?	  a) Addressing	  simplification	  b) Header	  format	  simplification	  c) Security	  d) Expanded	  addressing	  capabilities	  	  
+34) Il	  server	  dei	  nomi	  fondamentali	  del	  servizio	  DNS:	  a) È	  uno	  dei	  tipi	  di	  name	  server	  usati	  nel	  DNS.	  b) per	  ogni	  host	  name	  conosce	  l’indirizzo	  IP	  del	  server	  dei	  nomi	  assoluti	  per	  tale	  host	  name	  c) Conosce	  gli	  indirizzi	  IP	  di	  tutti	  i	  calcolatori	  del	  mondo	  	  d) Serve	  per	  tradurre	  host	  name	  in	  indirizzi	  IP.	  e) Conosce	  gli	  indirizzi	  IP	  di	  tutti	  i	  calcolatori	  connessi	  alla	  rete.	  	  
+35) Individuare	  quali	  tra	  i	  seguenti	  sono	  indirizzi	  validi	  per	  un	  host	  della	  rete	  192.168.27.0	  con	  maschera	  di	  sottorete	  255.255.255.240?	  a) 192.168.27.175	  b) 192.168.27.119	  c) 192.168.27.208	  d) 192.168.27.33	  e) 192.168.27.126	  f) 192.168.27.112	  	  
+36) Quale	  tra	  i	  seguenti	  è	  un	  sottolivello	  del	  livello	  data	  link?	  a) ACL,LMC	  b) OSI,LLC	  c) MAC,LLC	  d) MAC,LAC	  	  
+37) Quale	  tra	  i	  seguenti	  è	  un	  esempio	  di	  indirizzo	  MAC	  a	  livello	  2?	  a) 192.201.63.151	  b) 19-­‐22-­‐01-­‐63-­‐25	  c) 0000.1234.FEG	  d) 00-­‐00-­‐12-­‐34-­‐FE-­‐AA	  	  
+38) Quale	  dei	  seguenti	  eventi	  può	  realizzarsi	  presso	  la	  postazione	  di	  una	  rete	  token	  Ring?	  a) Esame	  all’indirizzo	  del	  destinatario	  b) I	  tre	  eventi	  precedenti	  c) Copia	  della	  frame	  d) Passaggio	  del	  frame	  attraverso	  la	  postazione	  	  
+39) Quale	  frame	  field	  è	  ottenuta	  con	  una	  source	  node	  e	  utilizzata	  da	  una	  destination	  node	  per	  assicurarsi	  che	  un	  dato	  trasmesso	  non	  sia	  stato	  alterato	  da	  interferenze,	  distorsione,o	  perdita	  di	  segnale?	  a) Error	  connection	  process	  field	  b) Frame	  check	  sequence	  field	  c) User	  datagram	  protocol	  field	  d) Flow	  control	  field	  e) Trasport	  layer	  check	  field	  	  
+40) In	  quale	  tipo	  di	  risoluzione	  il	  client	  è	  in	  contatto	  diretto	  con	  un	  solo	  serve?	  a) Iterativa	  	  b) Ricorsiva	  	  c) Asincrona	  	  d) Multimediale	  	  
+41) Un	  router	  è:	  a) Un	  sinonimo	  di	  bridge	  b) Un	  dispositivo	  del	  livello	  di	  collegamento	  dei	  dati	  (data	  link	  layer)	  c) Un	  dispositivo	  del	  livello	  di	  rete	  utilizzato	  per	  il	  trasferimento	  affidabile	  dei	  dati.	  d) Un	  dispositivo	  del	  livello	  di	  rete	  utilizzato	  per	  l’instradamento	  di	  unità	  di	  dati	  nel	  loro	  percorso	  tra	  nodo	  mittente	  e	  nodo	  destinatario.	  	  
+42) Che	  tipo	  di	  cavo	  dovrebbe	  essere	  utilizzato	  per	  collegare	  un	  computer	  direttamente	  ad	  un	  altro	  computer?	  a) Crossover	  b) Console	  c) Straight-­‐through	  d) Rollover	  	  
+43) Un’amministratore	  di	  rete	  sta	  cercando	  di	  risolvere	  un	  mancato	  accesso	  a	  www.cisco.com.	  scrivendo	  l’indirizzo	  IP	  del	  server	  web	  nel	  broswer,	  la	  pagina	  viene	  caricata	  correttamente.	  Quale	  protocollo	  del	  livello	  applicativo	  è	  responsabile	  del	  fallimento?	  a) HTTPS	  b) DNS	  c) CDP	  d) HTTP	  e) SSL	  f) DHCP	  	  	  
+44) In	  che	  tipo	  di	  switching	  ogni	  pacchetto	  in	  uno	  stesso	  messaggio	  segue	  sempre	  il	  medesimo	  percorso	  tra	  mittente	  e	  destinatario?	  a) Datagram	  packed	  switching	  b) Il	  circuit	  switching	  	  c) Circuito	  virtuale	  packed	  switching	  d) Tutti	  i	  precedenti	  	  
+45) Qual	  è	  lo	  scopo	  del	  numero	  di	  sequenza	  nell’intestazione	  TCP?	  a) Visualizza	  il	  numero	  massimo	  di	  byte	  consentita	  durante	  una	  sessione.	  b) Indicare	  il	  numero	  del	  prossimo	  byte	  atteso	  c) Identificare	  il	  protocollo	  di	  livello	  applicativo	  	  d) Riassemblare	  i	  segmenti	  in	  dati	  	  
+46) Quale	  campo	  di	  un	  frame	  viene	  usato	  per	  la	  rilevazione	  degli	  errori?	  a) MTU	  b) MAC	  c) PDU	  d) ERR	  e) FCS	  	  
+47) Che	  tipo	  di	  tecnologia	  è	  lo	  standard	  IEEE	  802.3ac	  progettate	  specificatamente	  per	  ospitare?	  a) Virtual	  local	  area	  network	  b) Simple	  network	  management	  protocol	  c) Internet	  control	  message	  protocol	  d) Address	  resolution	  protocol	  e) Voice	  over	  IP	  	  
+48) Quali	  tra	  i	  seguenti	  sono	  i	  dettagli	  di	  incanpsulazione	  del	  livello	  data	  link?(2	  risp)	  a) I	  dati	  vengono	  convertiti	  in	  pacchetti	  b) I	  pacchetti	  sono	  confezionati	  in	  frames	  c) I	  pacchetti	  vengono	  trasformati	  in	  bit	  per	  i	  viaggi	  internet	  d) Un	  header	  e	  un	  trailer	  sono	  aggiunti	  e) I	  frames	  sono	  suddivisi	  in	  segmenti	  	  
+49) Esaminare	  la	  seguente	  illustrazione.	  Host	  A	  nel	  clerical	  office	  non	  è	  riuscito	  ed	  è	  stato	  sostituito.	  Anche	  se	  ping	  127.0.0.1	  ha	  avuto	  successo	  il	  computer	  sostituito	  non	  puo	  accedere	  alla	  rete	  aziendale	  con	  l’ARP	  proxy	  disabilitato	  sull’interfaccia	  del	  router	  New	  York	  Fa0/0,	  qual	  è	  la	  probabile	  causa	  del	  problema?	  a) Subnet	  mask	  incorrently	  entered	  b) Network	  card	  failure	  c) Network	  cables	  unplugged	  d) IP	  address	  incorrently	  entered	  	  
+50) Quale	  tra	  queste	  frasi	  riguardano	  gli	  IP	  network	  addresses	  è	  giusta?	  a) È	  assegnato	  l’indirizzo	  più	  alto	  in	  un	  range	  b) Tutti	  gli	  host	  bit	  sono	  impostati	  ad	  1	  c) Tutti	  i	  network	  bit	  sono	  impostati	  ad	  1	  d) Tutti	  gli	  host	  bit	  sono	  impostati	  a	  0	  	  
+51) Facendo	  riferimento	  all’immagine.	  Qual	  è	  lo	  scopo	  del	  rivestimento	  in	  fibra	  ottica?	  a) Prevenzione	  della	  perdita	  di	  luce	  b) Diminuzione	  del	  rumore	  c) Protezione	  EMI	  d) Cable	  grounding	  	  
+52) Per	  quale	  motivo	  gli	  host	  usano	  gli	  indirizzi	  del	  livello	  data	  link?	  a) Pemote	  delivery	  b) Remote	  delivery	  using	  routers	  c) Local	  delivery	  d) Local	  and	  remote	  delivery	  	  
+53) Il	  protocollo	  SMTP	  usa	  il	  protocollo	  :	  a) Vari	  b) UDP	  c) TCP	  d) FTP	  e) IP	  
+54) Lo	  spettro	  elettromagnetico:	  a) definisce	  le	  caratteristiche	  fisiche	  della	  trasmissione	  in	  base	  alla	  rete	  in	  cui	  sono	  veicolate	  b) Definisce	  le	  caratteristiche	  fisiche	  della	  trasmissione	  in	  base	  alla	  loro	  frequenza	  c) Definisce	  le	  caratteristiche	  fisiche	  della	  trasmissione	  in	  base	  al	  tipo	  di	  connessione.	  d) Definisce	  le	  caratteristiche	  fisiche	  della	  trasmissione	  in	  base	  alla	  loro	  lunghezza	  d’onda.	  	  
+55) Che	  cos’è	  un	  RFC?	  a. Una	  richiesta	  di	  commenti	  agli	  utenti	  finali	  di	  un	  servizio	  internet	  b) Un	  documento	  che	  descrive	  uno	  standard	  di	  Internet	  c) Uno	  standard	  di	  Internet	  d) Tutte	  le	  precedenti	  	  
+56) Gli	  indirizzi	  fisici(mac)	  degli	  host	  IP	  sono	  costituiti	  da:	  a) 3	  byte	  b) 4	  byte	  	  c) 32	  bit	  d) 48	  bit	  	  
+57) Nell’instradamento	  a	  vettori	  di	  distanza	  tutti	  i	  router	  ricevono	  informazioni	  dirette:	  a) Da	  tutti	  i	  router	  a	  distanza	  minore	  o	  uguale	  a	  due	  unità	  b) Da	  una	  tabella	  immagazzinata	  dagli	  host	  della	  rete	  c) Da	  tutti	  i	  router	  sulla	  rete	  d) Solo	  dai	  loro	  vicini	  	  
+58) Che	  cosa	  determina	  quanti	  dati	  di	  una	  stazione	  di	  invio	  esecuzione	  TCP/IP	  possono	  essere	  trasmessi	  prima	  di	  ricevere	  un	  riconoscimento?	  a) Bandwindh	  b) Trasmission	  rate	  c) Window	  size	  d) Segment	  size	  e) Sequence	  number	  	  
+59) Quali	  tra	  i	  seguenti	  sono	  i	  dettagli	  di	  incapsulamento	  del	  livello	  data	  link?(2	  risp)	  a) Un	  header	  e	  un	  trailer	  sono	  aggiunti	  b) I	  frames	  sono	  suddivisi	  in	  segmenti	  c) I	  dati	  vengono	  convertiti	  in	  pacchetti	  d) I	  pacchetti	  vengono	  trasformati	  in	  bit	  per	  i	  viaggi	  Internet	  e) I	  pacchetti	  sono	  confezionati	  in	  frames	  	  
+60) La	  rete	  telefonica	  è	  un	  tipo	  di	  rete:	  a) A	  commutazione	  di	  circuito	  (circuit-­‐switched)	  b) A	  commutazione	  di	  pacchetto(packet-­‐switched)	  c) Basata	  solo	  sull’uso	  dei	  satelliti	  d) Che	  non	  usa	  protocolli	  	  
+61) Quale	  livello	  OSI	  è	  associato	  all’indirizzamento	  IP?	  a) 2	  b) 4	  c) 1	  d) 3	  	  
+62) Quale	  comando	  accende	  un’interfaccia	  del	  router?	  a) Router(confing-­‐if)#interface	  up	  b) Router(confing-­‐if)#enable	  c) Router(confing-­‐if)no	  shutdown	  d) Router(confing-­‐if)#s0	  active	  e) Router(config-­‐if)no	  down	  	  
+63) Tra	  i	  vantaggi	  introdotti	  da	  una	  rete	  di	  calcolatori	  possiamo	  individuare:	  a) La	  scalabilità	  b) L’affidabilità	  c) La	  condivisione	  delle	  risorse	  d) La	  diminuzione	  dei	  costi	  	  
+64) Si	  abbia	  un	  class	  B	  network	  address	  con	  una	  subnet	  mask	  255.255.255.0.	  quali	  delle	  seguenti	  appermazioni	  sono	  vere?(2	  risp)	  a) Ci	  sono	  30	  subnet	  usabili	  b) C’è	  una	  rete	  usabile	  c) Ci	  sono	  254	  subnet	  usabili	  d) Ci	  sono	  64	  usabili	  host	  per	  subnet	  e) ci	  sono	  254	  usabili	  host	  per	  subnet	  f) Ci	  sono	  255	  usabili	  host	  per	  subnet	  	  
+65) Facendo	  riferimento	  all’immagine.	  Quale	  fra	  queste	  funzioni	  è	  una	  responsabilità	  unicamente	  dei	  dispositivi	  DCE?	  a) Clocking	  per	  il	  synchronous	  link	  b) Cancellazione	  del	  rumore	  nei	  dati	  trasmessi	  c) Ricezione	  dei	  dati	  d) Trasmissione	  dei	  dati	  	  
+66) Quali	  lunghezze	  dei	  cavi	  UTP	  sono	  specificati	  dagli	  standard	  ANSI/TIA/EIA-­‐268-­‐B?(3	  risp)	  a) Fino	  a	  110	  metri	  di	  lunghezza	  totale	  end-­‐to-­‐end	  b) Orizzontale	  massima	  di	  cablaggio	  di	  metri	  90	  c) Fino	  a	  10	  metri	  per	  il	  collegamento	  di	  singoli	  dispositivi	  alle	  prese	  a	  muro	  d) Fino	  a	  5	  metri	  di	  pannelli	  di	  permutazione	  interconnessione	  e) Fino	  a	  10	  metri	  di	  pannelli	  di	  permutazione	  interconnessione	  f) Lunghezza	  end-­‐to-­‐end	  totale	  fino	  a	  100	  metri	  	  
+67) La	  classe	  di	  indirizzi	  IP	  che	  consente	  di	  associare	  ad	  una	  rete	  il	  minimo	  numero	  di	  host	  è?	  a) La	  classe	  A	  b) La	  classe	  C	  c) La	  classe	  B	  d) Tutte	  le	  precedenti	  	  
+68) Si	  abbia	  il	  seguente	  network	  address	  193.205.92.0	  con	  una	  subnet	  mask	  255.255.255.0.	  quali	  delle	  seguenti	  affermazioni	  sono	  vere?	  a) Ci	  sono	  64	  subnet	  usabili	  b) Ci	  sono	  30	  subnet	  usabili	  c) Ci	  sono	  64	  usabili	  host	  per	  subnet	  	  d) Ci	  sono	  255	  usabili	  host	  per	  subnet	  e) C’è	  una	  sola	  rete	  usabile	  f) Ci	  sono	  254	  usabili	  host	  per	  subnet	  	  	  
+69) In	  un	  client	  internet	  che	  sta	  usando	  la	  posta	  elettronica	  le	  funzione	  del	  protocollo	  SMTP	  sono:	  a) Invio	  di	  posta	  elettronica	  b) Ricezione	  di	  posta	  elettronica	  c) Invio	  e	  ricezione	  di	  posta	  elettronica	  d) Controllo	  dei	  virus	  collegati	  alla	  posta	  elettronica	  	  
+70) Quando	  un	  server	  risponde	  ad	  una	  richiesta	  web,	  cosa	  si	  verifica	  successivamente	  al	  processo	  dopo	  che	  i	  dati	  della	  pagina	  web	  di	  incapsulamento	  vengono	  formattati	  e	  suddivisi	  in	  segmenti	  TCP?	  a) Il	  server	  aggiunge	  la	  fonte	  e	  l’indirizzo	  IP	  di	  destinazione	  per	  ogni	  intestazione	  al	  fine	  di	  consegnare	  i	  pacchetti	  a	  destinazione	  b) Il	  server	  trasforma	  i	  dati	  in	  bit	  per	  trasporto	  attraverso	  il	  mezzo	  c) Il	  client	  aggiunge	  gli	  indirizzi	  fisici	  appropriati	  per	  i	  segmenti	  in	  modo	  che	  il	  server	  può	  trasmettere	  i	  dati.	  d) Il	  client	  decapsula	  il	  segmento	  e	  si	  apre	  la	  pagina	  web.	  e) Il	  server	  aggiunge	  la	  fonte	  gli	  indirizzi	  fisici	  di	  destinazione	  all’intestazione	  del	  pacchetto	  	  
+71) Qual	  è	  lo	  scopo	  dell’encoding?	  a) L’identificazione	  dei	  bit	  di	  start	  e	  di	  stop	  in	  un	  frame	  b) Rappresenta	  i	  bit	  dati	  utilizzando	  diverse	  tensioni	  modelli	  leggeri	  o	  onde	  elettromagnetiche	  che	  siano	  sistemati	  sui	  supporti	  fisici	  c) Controlla	  il	  modo	  in	  cui	  i	  frame	  sono	  collocati	  sul	  supporto	  a	  livello	  data	  link	  d) Indica	  i	  physical	  layer	  connectors	  di	  un	  computer	  in	  relazione	  al	  modo	  in	  cui	  si	  collegano	  ai	  media	  di	  rete.	  	  
+72) Facendo	  riferimento	  all’immagine.	  I	  numeri	  rappresentati	  fanno	  parte	  di	  un'unica	  sottorete.	  Quali	  di	  queste	  affermazioni	  riguardanti	  i	  numeri	  riportati	  sono	  vere?(3	  risposte)	  a) Hanno	  5	  low-­‐order	  bit	  in	  comune	  b) 255.255.255.224	  è	  una	  maschera	  appropriata	  per	  il	  loro	  range	  c) 192.168.223.99	  è	  un	  numero	  di	  rete	  possibile	  per	  il	  loro	  range	  d) Hanno	  27	  high-­‐order	  bit	  in	  comune	  e) 192.168.223.127	  è	  l’indirizzo	  di	  broadcast	  per	  il	  loro	  range	  f) Il	  loro	  ottetto	  finale	  ha	  4	  dei	  bit	  più	  significativi	  in	  comune	  	  
+73) A	  che	  livello	  troviamo	  nella	  gerarchia	  ISO-­‐OSI	  	  il	  protocollo	  POP?	  a) Trasporto	  	  b) Rete	  c) Fisico	  d) Applicazione	  	  
+74) Un	  amministratore	  configura	  un	  nuovo	  router	  e	  lo	  nomina	  SANJOSE.	  L’amministratore	  deve	  impostare	  una	  password	  che	  sarà	  richiesta	  per	  stabilire	  una	  sessione	  della	  console	  con	  il	  router.	  Quali	  comandi	  devono	  essere	  rilasciati	  dall’amministratore	  per	  impostare	  la	  password	  della	  console	  di	  CISCO?	  a) SANJOSE(confing)	  #enable	  console	  password	  CISCO	  b) SANJOSE(confing)	  #enable	  password	  CISCO	  SANJOSE(confing)	  #line	  con	  0	  c) SANJOSE(confing)	  #login	  SANJOSE(confing)	  #enable	  password	  CISCO	  SANJOSE(confing)	  #line	  con	  0	  d) SANJOSE(confing-­‐line)	  #login	  SANJOSE(confing-­‐line)	  #password	  CISCO	  	  
+75) Un	  hub	  è:	  a) un	  dispositivo	  del	  livello	  fisico	  che	  prende	  in	  input	  e	  lo	  ritrasmette	  a	  tutte	  le	  sue	  porte	  di	  uscita	  b) un	  dispositivo	  del	  livello	  di	  collegamento	  dei	  dati	  (dati	  link	  layer)	  che	  funge	  da	  ripetitore	  per	  le	  unità	  di	  dati	  che	  prende	  in	  input	  ritrasmettendole	  su	  tutte	  le	  sue	  porte	  di	  uscita	  c) un	  dispositivo	  del	  livello	  di	  rete	  finalizzato	  alla	  verifica	  che	  unità	  di	  dati	  del	  livello	  di	  rete	  non	  contengano	  errori	  d) un	  dispositivo	  del	  livello	  di	  rete	  che	  prende	  un’unità	  di	  dati	  del	  livello	  di	  rete	  come	  input	  e	  la	  ritrasmette	  a	  tutte	  le	  sue	  porte	  di	  uscita	  	  
+76) Quali	  fra	  i	  seguenti	  sono	  campi	  di	  un	  frame	  ethernet	  802.3?(3	  risp)	  a) Media	  type	  identifier	  b) Frame	  check	  sequence	  c) Source	  logical	  address	  d) Source	  physical	  address	  e) Destination	  physical	  address	  f) Destination	  logical	  address	  	  
+77) Un	  proxy	  server	  è	  usato	  nel	  web	  per:	  a) ridurre	  il	  traffico	  globale	  su	  internet	  b) ridurre	  i	  tempi	  di	  risposta	  per	  i	  client	  c) soddisfare	  richieste	  http	  0	  che	  altrimenti	  sarebbe	  difficile	  soddisfare	  d) trasferire	  file	  e) offrire	  maggiore	  affidabilità	  dei	  server	  di	  origine	  	  
+78) Si	  vuole	  segmentare	  una	  rete;	  quali	  devices	  potrebbero	  essere	  usati?(3	  risp)	  a) Router	  b) Media	  converter	  c) Switch	  d) Risposta	  3	  e) Hub	  f) Repeater	  	  g) Bridge	  	  
+79) Quali	  tre	  parti	  fondamentali	  sono	  comuni	  a	  tutti	  i	  tipi	  di	  frame	  supportati	  dal	  livello	  di	  collegamento	  dati?(3	  risp)	  a) MTU	  size	  b) Data	  	  c) Trailer	  d) Header	  e) CRC	  valute	  f) Type	  field	  	  
+80) Che	  tipi	  di	  indirizzamento	  possiamo	  trovare	  nel	  livello	  OSI	  2?	  a) MAC	  b) Port	  	  c) Logical	  d) Physical	  e) IP	  	  
+81) Quali	  sono	  i	  fattori	  chiave	  da	  considerare	  quando	  si	  raggruppano	  gli	  host	  in	  una	  rete	  comune?(3	  risp)	  a) Software	  version	  b) Geagraphic	  lacation	  c) Ownershop	  d) Purpose	  e) Physical	  addressing	  f) Gateways	  	  
+82) Quale	  parte	  di	  un	  indirizzo	  di	  livello	  di	  rete	  viene	  usata	  dal	  router	  durante	  la	  determinazione	  del	  percorso?	  a) The	  host	  address	  b) The	  router	  address	  c) The	  network	  address	  d) The	  server	  address	  	  
+83) Quale	  tra	  queste	  frasi	  riguardo	  gli	  IP	  network	  address	  è	  giusta?	  a) Tutti	  i	  network	  bit	  sono	  impostati	  a	  1	  b) Tutti	  gli	  host	  bit	  sono	  impostati	  ad	  1	  c) È	  assegnato	  l’indirizzo	  più	  alto	  in	  un	  range	  	  d) Tutti	  gli	  host	  bit	  sono	  impostati	  a	  0	  	  
+84) Quale	  termine	  descrive	  un	  specifico	  insieme	  di	  regole	  che	  determinano	  la	  formattazione	  dei	  messaggi	  	  e	  il	  percorso	  di	  incapsulamento	  utilizzato	  per	  inoltrare	  i	  dati?	  a) Segmentation	  b) Protocol	  c) Multiplexing	  d) Reassembly	  e) QoS	  	  
+85) Alcuni	  dei	  seguenti	  non	  identificano	  componenti	  di	  una	  rete	  di	  calcolatori.	  Li	  si	  individuino.	  a) Mouse	  b) Hub	  c) Bridge	  d) Router	  e) Monitor	  	  	  f) Display	  	  	  
+86) Facendo	  riferimento	  all’immagine.	  La	  rete	  nell’illustrazione	  è	  cablata	  con	  un	  cavo	  Cat5e	  e	  la	  Workstation	  ”0”	  non	  è	  in	  grado	  di	  comunicare	  con	  la	  rete.	  Quale	  problema	  del	  Physical	  Layer	  causerebbe	  il	  problema	  della	  Workstation	  ”0”	  che	  non	  risulta	  connessa	  alla	  rete?	  a) Un	  errato	  indirizzo	  IP	  b) Un	  sistema	  operativo	  sbagliato	  c) Lunghezza	  del	  cavo	  d) Uno	  swith	  tipe	  e) Un	  prefisso	  errato	  	  
+87) Quali	  sono	  le	  ragioni	  per	  cui	  si	  usano	  switches	  invece	  degli	  hub?	  a) Perché	  costano	  meno	  b) Perché	  sono	  piu	  veloci	  degli	  hub	  a	  leggere	  frame	  c) Perché	  aumentano	  i	  domini	  di	  collisione	  d) Perché	  non	  fanno	  passare	  i	  broadcasting	  	  
+88) Nell’algoritmo	  di	  Dijkstra	  ,	  per	  il	  calcolo	  dei	  cammini	  minimi,	  ogni	  nodo:	  a) conosce	  l’intera	  topologia	  della	  rete	  b) conosce	  i	  nomi	  di	  tutti	  i	  nodi	  della	  rete	  c) conosce	  solo	  le	  informazioni	  relative	  ai	  nodi	  vicini	  	  
+89) Quali	  delle	  seguenti	  affermazioni	  sono	  vere?(5	  risp)	  a) ARP	  is	  used	  to	  find	  a	  hardware	  address	  from	  a	  known	  IP	  address	  b) UDP	  is	  connectionless	  c) TCP	  i	  connection	  oriented	  d) ICMP	  is	  used	  to	  manage	  data	  to	  routers	  e) IP	  is	  connectionless	  and	  provides	  routing	  f) ARP	  is	  used	  to	  find	  an	  IP	  address	  of	  a	  host	  g) TCP	  uses	  windowing	  as	  a	  flow	  control	  method	  	  
+90) Ad	  un	  cliente	  del	  provider	  sono	  stati	  assegnati	  sei	  indirizzi	  di	  classe	  C	  che	  vanno	  da	  	  224.68.168.0	  a	  223.68.174.0.	  Quale	  maschera	  di	  sottorete	  va	  usata	  per	  raggruppare	  questi	  sei	  indirizzi	  (CIDR)?	  a) 255.255.240.0	  b) 255.255.224.0	  c) 255.255.254.0	  d) 255.255.248.0	  	  
+91) Un	  utente	  non	  riesce	  a	  connettersi	  con	  il	  server	  www.snow.com.	  Egli	  è	  in	  grado	  di	  fare	  ping	  sull’indirizzo	  IP	  del	  serve	  ma	  non	  su	  	  www.snow.com.	  Quale	  potrebbe	  essere	  il	  problema?	  a) TCP/IP	  failure	  b) DNS	  failure	  c) SNMP	  failure	  d) FTP	  failure	  	  
+92) Gli	  end	  System	  utilizzano	  numeri	  di	  porta	  per	  selezionare	  l’applicazione	  appropriata.	  Qual	  è	  il	  numero	  di	  porta	  più	  piccolo	  che	  può	  essere	  assegnato	  dinamicamente	  da	  un	  sistema	  host?	  a) 512	  b) 1	  c) 1024	  d) 256	  e) 64	  f) 128	  	  
+93) Quale	  sottolivello	  comunica	  direttamente	  con	  la	  scheda	  di	  rete?	  a) IP	  b) MAC	  c) PDU	  d) LLC	  	  
+94) Il	  controllo	  del	  flusso	  è	  una	  funzionalità:	  a) del	  livello	  fisico	  b) di	  UDP	  c) di	  TCP	  d) del	  sistema	  di	  dighe	  in	  Olanda	  e) di	  internet	  	  
+95) Quale	  utility	  mostra	  il	  percorso	  inpiegato	  da	  un	  pacchetto	  per	  raggiungere	  la	  sua	  destinazione?	  a) Netstat	  b) Ping	  c) Traceroute	  d) telnet	  	  
+96) Qual	  è	  l’intervallo	  binario	  del	  primo	  ottetto	  in	  classe	  B?	  a) 00000000	  –	  10111111	  b) 10000000	  –	  10111111	  c) 10000000	  –	  11011111	  d) 10000000	  –	  11111111	  e) 11000000	  –	  11101111	  	  
+97) Quali	  sono	  i	  tre	  pezzi	  di	  informazioni	  di	  percorso	  che	  sono	  contenuti	  in	  una	  tabella	  di	  routing?(3	  risp)	  a) Last	  hop	  b) Souce	  host	  address	  c) Metric	  d) Default	  gateway	  e) Destination	  network	  address	  f) Next-­‐hop	  	  
+98) Quali	  protocolli	  sono	  associati	  al	  livello	  4	  del	  modello	  OSI?(2	  risp)	  a) TCP	  b) IP	  c) FTP	  d) TFTP	  e) UDP	  	  
+99) Una	  richiesta	  ARP	  è	  inviata	  in	  modalità?	  a) Unicast	  ad	  un	  host	  b) Unicast	  a	  tutti	  gli	  host	  c) Multicast	  ad	  un	  host	  d) Broadcast	  a	  tutti	  gli	  host	  	  
+100) Cosa	  descrive	  meglio	  lo	  scopo	  del	  Physical	  Layer?	  a) Determina	  la	  connettività	  e	  la	  selezione	  del	  percorso	  tra	  due	  sistemi	  terminali	  b) Assicura	  una	  trasmissione	  affidabile	  di	  dati	  attraverso	  un	  collegamento	  fisico	  c) Stabilisce	  il	  physical	  addressing	  topologia	  di	  rete	  e	  accesso	  ai	  media	  d) Definisce	  le	  specifiche	  funzionali	  per	  collegamento	  tra	  end	  system	  e	  segnali	  elettrici,	  ottici	  e	  radio	  	  
+101) Il	  prefisso	  quale	  parte	  dell’indirizzo	  IP	  rappresenta?	  a) Host	  	  b) Unicast	  c) Network	  	  d) Broadcast	  	  	  
+102) Facendo	  riferimento	  all’immagine.	  I	  numeri	  rappresentati	  fanno	  parte	  di	  un’unica	  sottorete.	  Quali	  di	  queste	  affermazioni	  riguardanti	  i	  numeri	  riportati	  sono	  vere?(3	  risp)	  a) 192.168.223.99	  è	  un	  numero	  di	  rete	  possibile	  per	  il	  loro	  range	  b) Hanno	  27	  high-­‐	  order	  bit	  in	  comune	  c) 192.168.223.127	  è	  l’indirizzo	  di	  broadcast	  per	  il	  loro	  range	  d) Il	  loro	  ottetto	  finale	  ha	  4	  dei	  bit	  più	  significativi	  in	  comune	  e) 255.255.255.224	  è	  una	  maschera	  appropriata	  per	  il	  loro	  range	  f) Hanno	  5	  low-­‐order	  bit	  in	  comune	  
+103) L’algoritmo	  di	  Dijkstra	  viene	  usato	  per:	  a) a	  e	  b	  b) costruire	  la	  tabella	  di	  instradamento	  c) irrigare	  la	  rete	  con	  informazioni	  d) creare	  un	  data	  base	  sullo	  stato	  dei	  collegamenti	  	  
+104) Quale	  sottolivello	  del	  Layer	  2	  fornisce	  servizi	  a	  livello	  di	  rete	  del	  modello	  OSI?	  a) LLC	  b) IEEE	  802.3	  c) FCS	  d) MAC	  	  
+105) Qual	  è	  la	  funzione	  primaria	  del	  CSMA/CD	  in	  una	  rete	  ethernet?	  a) Definire	  l’area	  in	  cui	  si	  possono	  verificare	  collisioni	  b) Assegnare	  gli	  indirizzi	  MAC	  agli	  host	  c) Identificare	  l’inizio	  e	  la	  fine	  del	  frame	  ethernet	  d) Mappare	  un	  indirizzo	  IP	  a	  un	  indirizzo	  MAC	  e) Creare	  l’intestazione	  nel	  frame	  ethernet	  così	  come	  i	  dati	  sono	  incapsulati	  f) Fornire	  un	  metodo	  per	  determinare	  quando	  e	  come	  gli	  host	  accedono	  al	  mezzo	  ethernet	  	  
+106) I	  cookie	  sono	  usati	  dal	  Serve	  Web	  per	  :	  a) memorizzare	  le	  preferenze	  di	  un	  utente	  b) evitare	  di	  autenticare	  un	  utente	  ogni	  volta	  che	  visita	  un	  sito	  c) garantire	  la	  sicurezza	  delle	  comunicazioni	  d) permettere	  l’accesso	  alla	  rete	  da	  macchine	  diverse	  e) inserire	  opportuni	  numeri	  di	  identificazione	  nelle	  macchine	  degli	  utenti	  	  
+107) Quale	  dei	  seguenti	  è	  un	  sottolivello	  del	  livello	  data	  link?	  a) ACL,MLC	  b) MAC,	  LAC	  c) MAC,	  LLC	  d) ISO,LLC	  	  
+108) Il	  metodo	  POST	  nel	  protocollo	  http	  serve	  per:	  a) segnalare	  un	  errore	  b) richiedere	  una	  pagina	  al	  server	  c) poter	  utilizzare	  le	  form	  d) richiedere	  un	  oggetto	  che	  dipende	  da	  cosa	  è	  contenuto	  nel	  corpo	  del	  messaggio	  di	  richiesta	  	  
+109) Quale	  dispositivo	  appartenente	  ad	  un	  livello	  di	  rete	  può	  separare	  una	  rete	  in	  diversi	  domini	  broadcast?	  a) Switch	  b) Hub	  c) Router	  d) Bridge	  	  
+110) Quali	  sono	  i	  vantaggi	  nell’utilizzare	  cavi	  in	  fibra	  ottica	  su	  cavo	  in	  rame?(3	  risp)	  a) Un’attenta	  gestione	  del	  cavo	  b) Il	  rame	  è	  più	  costoso	  c) L’efficiente	  trasferimento	  di	  corrente	  elettrica	  d) L’immunità	  alle	  interferenze	  elettromagnetiche	  e) Un	  maggior	  potenziale	  della	  larghezza	  di	  banda	  f) La	  lunghezza	  massima	  del	  cavo	  è	  maggiore	  	  
+111) Il	  protocollo	  TCP:	  a) fornisce	  un	  servizio	  full-­‐duplex	  b) Rispedisce	  tutti	  i	  segmenti	  con	  numero	  di	  sequenza	  successivo	  al	  segmento	  non	  riscontrato	  correttamente	  c) Usa	  i	  riscontri	  comulativi	  d) Garandisce	  un	  valore	  di	  banda	  minimo	  e) Usa	  il	  meccanismo	  dei	  riscontri	  go-­‐back-­‐N	  	  
+112) Quali	  delle	  seguenti	  attività	  sono	  usate	  da	  TCP	  per	  assicurare	  una	  consegna	  affidabile	  dei	  dati?(2	  risp)	  a) MAC	  address	  resolution	  b) Routing	  updates	  c) Acknowledgements	  d) Sequence	  number	  e) Ping	  	  
+113) Quali	  tre	  strati	  del	  modello	  OSI	  compongono	  lo	  strato	  di	  applicazione	  del	  modello	  TCP/IP?(3	  risp)	  a) Presentation	  b) Data	  link	  c) Application	  d) Trasport	  e) Session	  f) Network	  	  
+114) Il	  meccanismo	  AIMD(incremento	  additivo,	  decremento	  moltiplicativo)	  è	  usato:	  a) in	  UDP	  per	  il	  controllo	  della	  congestione	  b) sia	  in	  TCP	  che	  in	  UDP	  per	  il	  controllo	  della	  congestione	  c) sia	  in	  TCP	  che	  in	  UDP	  per	  il	  controllo	  del	  flusso	  d) in	  TCP	  per	  il	  controllo	  della	  congestione	  	  
+115) Che	  cosa	  identifica	  il	  termine	  WAN?	  a) È	  un	  acronimo	  di	  wide	  area	  network	  b) Un	  gruppo	  di	  siti	  web	  c) Un	  motore	  di	  ricerca	  d) Una	  rete	  geografica	  	  
+116) Quale	  tipo	  di	  cavo	  consiste	  in	  un	  nucleo	  di	  metallo	  ed	  un	  rivestimento	  conduttore	  esterno?	  a) Cavo	  coassiale	  b) Doppino	  schermato	  c) Doppino	  	  d) Fibra	  ottica	  	  	  
+117) Quale	  dei	  seguenti	  indirizzi	  rappresenta	  un	  indirizzo	  unicast?	  a) 255.255.255.255	  b) 92.168.24.59./30	  c) 224.1.5.2	  d) FFFF.FFFF.FFFF	  e) 12.31.128.255./24	  	  
+118) Come	  viene	  classificata	  una	  risposta	  DNS	  se	  le	  informazioni	  provengono	  da	  una	  memoria	  cache?	  a) Non	  autorevole	  b) Autorevole	  c) Iterattiva	  d) Ricorsiva	  	  
+119) Durante	  il	  trasferimento	  di	  dati,	  quali	  sono	  le	  principali	  responsabilità	  dell’host	  che	  riceve?(2	  risp)	  a) Segmentation	  b) Throughput	  c) Bandwindth	  d) Acknowledgments	  e) Encapsulation	  f) Reassembly	  	  
+120) Una	  rete	  di	  classe	  C	  è	  subnettata	  con	  una	  maschera	  /27.	  Quali	  dei	  seguenti	  indirizzi	  è	  un	  indirizzo	  di	  broadcast	  per	  una	  delle	  subnets	  risultanti?	  a) 201.57.78.254	  b) 201.57.78.64	  c) 201.57.78.159	  d) 201.57.78.33	  e) 201.57.78.97	  	  
+121) La	  lunghezza	  massima	  di	  un	  pacchetto	  IP	  è	  di	  65.535	  byte	  a) Il	  campo	  lunghezza	  dell’header	  è	  di	  16	  bit	  b) I	  protocolli	  di	  trasporto	  superiori	  non	  supportano	  lunghezze	  c) Nei	  più	  comuni	  protocolli	  di	  livello	  2	  questo	  è	  il	  valore	  standard	  d) La	  definizione	  non	  è	  esatta	  perché	  la	  massima	  lunghezza	  è	  65.535	  bit	  	  
+122) Quando	  un	  cavo	  	  stright-­‐through	  viene	  utilizzano	  in	  una	  rete?	  a) Quando	  si	  collega	  uno	  switch	  ad	  un	  altro	  switch	  b) Quando	  si	  collega	  un	  router	  attraverso	  una	  console	  port	  c) Quando	  si	  collega	  un	  host	  ad	  uno	  switch	  d) Quando	  si	  connette	  un	  router	  ad	  un	  altro	  router	  	  
+123) Quale	  livello	  OSI	  ha	  come	  caratteristica	  acknowledgments,	  sequencing	  e	  control	  flow?	  a) Layer	  6	  b) Layer	  5	  c) Layer	  2	  d) Layer	  3	  e) Layer	  7	  f) Layer	  4	  	  
+124) Si	  è	  amministratori	  di	  una	  rete	  e	  si	  riceve	  una	  chiamata	  di	  un	  utente	  che	  non	  riesce	  a	  raggiungere	  un	  server	  su	  un	  sito	  remoto.	  Si	  scoprono	  le	  seguenti	  informazioni:	  local	  PC	  10.0.3.35/24	  default	  gateway	  10.0.3.1	  remote	  server	  10.0.5.250/24.	  Si	  conduce	  il	  seguente	  test	  sul	  PC	  locale:	  ping	  127.0.0.1-­‐	  unseccessful	  ping	  10.0.3.35-­‐	  unseccessful	  ping	  10.0.3.1-­‐	  unseccessful	  ping	  10.0.5.250-­‐	  unseccessful	  quali	  dei	  seguenti	  problemi	  può	  essere	  all’origine	  dei	  risultati	  elencati?	  a) Local	  physical	  problem	  b) TCP/IP	  not	  orrently	  installed	  c) Remote	  physical	  problem	  d) Default	  gateway	  down	  	  
+125) La	  netmask	  255.255.255.252:	  a) è	  una	  netmask	  utilizzata	  tipicamente	  sulle	  reti	  punto-­‐punto	  b) non	  ha	  senso	  c) è	  una	  netmask	  che	  può	  essere	  utilizzata	  su	  una	  rete	  LAN	  con	  16	  host	  d) tutte	  le	  precedenti	  	  
+126) Facendo	  riferimento	  all’immagine.	  Quale	  tipo	  di	  cavo	  è	  in	  grado	  di	  connettere	  i	  due	  router	  insieme	  senza	  nessun	  dispositivo	  intermedio?	  a) Rollover	  b) Straight-­‐through	  c) Crossover	  d) Console	  	  
+127) Quale	  campo	  di	  un	  frame	  viene	  utilizzato	  per	  la	  rilevazione	  degli	  errori?	  a) ERR	  b) FCS	  c) MTU	  d) PDU	  e) MAC	  	  
+128) Nei	  datagram	  in	  formato	  IPv4,	  gli	  indirizzi	  IP	  sono	  costituiti	  da:	  a) 64	  bit	  b) 256	  bit	  c) 32	  bit	  d) 128	  bit	  	  
+129) Quali	  tra	  i	  seguenti	  sono	  indirizzi	  IP	  privati?	  a) 192.168.5.5	  b) 192.167.10.10	  c) 172.16.4.4	  d) 172.32.5.2	  e) 10.1.1.1	  f) 224.6.6.6	  	  
+130) La	  modalità	  di	  comunicazione	  client/server:	  a) definisce	  la	  relazione	  tra	  programma	  fruitore	  e	  programma	  erogatore	  di	  un	  servizio	  di	  rete	  b) si	  usa	  solo	  per	  trasferire	  documenti	  HTML	  c) permette	  l’utilizzo	  remoto	  di	  risorse	  d) si	  usa	  solo	  per	  collegarsi	  ad	  un	  sito	  WWW	  	  
+131) Qual	  è	  lo	  scopo	  del	  comando	  segreto	  consentito	  di	  IOS?	  a) Consentire	  ad	  un	  utente	  di	  immettere	  una	  password	  che	  verrà	  crittografata	  b) Consentire	  accesso	  all’utente	  in	  modalità	  utente	  c) Impostare	  la	  protezione	  password	  sul	  consol	  termninal	  d) Impostare	  la	  protezione	  password	  sulle	  sessioni	  Telnet	  in	  arrivo	  
+132) Quante	  cifre	  binarie	  (bit)	  sono	  in	  un	  indirizzo	  IPv6?	  a) 64	  bit	  b) 128	  bit	  c) 32	  bit	  d) 48	  bit	  	  
+133) Quale	  protocollo	  fornisce	  servizi	  di	  livello	  di	  rete	  senza	  connessione?	  a) IP	  b) TCP	  c) OSI	  d) UDP	  	  
+134) Quale	  categoria	  IEEE	  definisce	  gli	  standard	  LAN	  Token	  Ring?	  a) 802.11	  b) 802.1	  c) 802.5	  d) 802.3	  	  
+135) Quali	  tra	  le	  seguenti	  descrivono	  le	  funzioni	  di	  un	  router?	  a) Collision	  prevention	  on	  a	  LAN	  segment	  b) Pecket	  Switching	  c) Internetwork	  communication	  d) Broadcast	  domain	  enlargement	  e) Packet	  filtering	  f) Broadcast	  forwarding	  	  
+136) A	  livello	  2del	  modello	  OSI,	  quale	  componente	  connette	  un	  host	  al	  network	  media?	  a) Hub	  b) Bridge	  c) NIC	  d) Transceiver	  e) Switch	  	  	  
+137) Facendo	  riferimento	  all’illustrazione.	  Qual	  è	  il	  domino	  top-­‐level	  della	  URL	  mostrata?	  a) Cisco.com	  b) .com	  c) www.cisco	  .com	  d) www	  e) netacad	  f) http://	  	  
+138) Fare	  riferimento	  all’illustrazione.	  Quale	  termine	  si	  applica	  ad	  un	  trasferimento	  di	  dati	  nella	  direzione	  indicata	  dalla	  freccia?	  a) Upload	  b) Data	  Write	  c) Dowload	  d) Data	  Read	  	  
+139) Per	  diminuire	  il	  traffico	  di	  rete	  generato	  dai	  browser,	  si	  può	  utilizzare	  a) Un	  server	  FTP	  b) Un	  server	  PROXY	  c) Un	  server	  DNS	  d) Un	  server	  MAIL	  	  
+140) Quali	  comandi	  possono	  essere	  utilizzati	  per	  visualizzare	  un	  host	  routing	  table?(2	  risp)	  a) Route	  PRINT	  b) Netstat-­‐r	  c) Ipconfig/all	  d) telnet	  e) ping	  	  
+141) Facendo	  riferimento	  all’immagine.	  Un	  network	  administrator	  sta	  testando	  la	  configurazione	  sun	  un	  computer	  host.	  Che	  tipo	  di	  indirizzo	  è	  127.0.0.1?	  a) Loopback	  b) Default	  route	  c) Link-­‐local	  d) Public	  	  
+142) A	  quale	  strato	  del	  modello	  OSI	  operano	  i	  bridge?	  a) Fisico	  b) Data	  link	  c) Trasporto	  	  d) Rete	  	  
+143) Quale	  protocollo	  è	  utilizzato	  per	  trasferire	  le	  pagine	  web	  dal	  serve	  al	  client?	  a) HTML	  b) HTTP	  c) SMTP	  d) SSH	  e) telnet	  f) POP	  	  
+144) Qual	  è	  lo	  scopo	  di	  un	  TCP	  tre-­‐way-­‐handshake?	  a) Aggiusta	  la	  larghezza	  di	  sliding	  window	  b) Sincronizza	  i	  numeri	  di	  sequenza	  prima	  della	  trasmissione	  dei	  dati	  c) Generare	  un	  canale	  dedicato	  per	  l’interscambio	  dei	  dati	  d) Nessuna	  delle	  precedenti	  	  
+145) Il	  protocollo	  Go-­‐Back-­‐N	  per	  il	  trasferimento	  dei	  dati	  affidabile:	  a) usa	  i	  riscontri	  individuali	  b) permette	  di	  trasmettere	  fino	  a	  N	  pacchetti	  senza	  riscontro	  (N	  dimensione	  della	  finestra)	  c) ritrasmette	  solo	  i	  pacchetti	  persi	  d) è	  usato	  in	  TCP	  e) usa	  riscontri	  comulativi	  	  
+146) La	  classe	  di	  indirizzi	  IP	  che	  consente	  di	  associare	  il	  minimo	  numero	  di	  host	  è:	  a) la	  classe	  A	  b) la	  classe	  B	  c) la	  classe	  C	  d) tutte	  le	  precedenti	  	  
+147) Quale	  tipo	  di	  connessione	  è	  rappresentata	  dal	  grafico?	  a) Leassed	  line	  connection	  b) ISDN	  connection	  c) Ethernet	  connection	  d) Console	  connection	  	  
+148) Quale	  sequenza	  di	  comandi	  consentirà	  l’accesso	  a	  cinque	  virtual	  terminal	  lines	  con	  una	  password	  di	  Cisco?	  a) Router(confing-­‐line)#configure	  telnet	  	  Router(confing-­‐line)#line	  vty	  0	  5	  	  Router(confing-­‐line)#password	  cisco	  	  b) Router(confing-­‐line)#	  configure	  telnet	  	  Router(confing-­‐line)#password	  cisco	  	  Router(confing-­‐line)#session	  0	  4	  c) Router(confing-­‐line)#line	  vty	  0	  4	  	  Router(confing-­‐line)#login	  	  Router(confing-­‐line)#password	  cisco	  d) Router(confing-­‐line)#line	  vty	  0	  5	  	  Router(confing-­‐line)#password	  cisco	  	  
+149) Facendo	  riferimento	  all’immagine.	  Quale	  opzione	  definisce	  le	  impostazioni	  di	  configurazione	  della	  default	  port	  utilizzate	  per	  stabilire	  questa	  connessione	  seriale	  diretta	  tra	  un	  computer	  e	  in	  dispositivo	  di	  networking	  di	  Cisco?	  a) 19,200	  bps,	  8	  data	  bits,	  even	  parity,	  1	  stop	  bit,	  hardware	  flow	  control	  b) 9600	  bps,	  8	  data	  bits,	  no	  parity,	  1	  stop	  bit,	  no	  flow	  control	  c) 9600	  bps,16	  data	  bits,	  odd	  parity,	  1	  stop	  bit,hardware	  flow	  control	  d) 9600	  bps,	  8	  data	  bits,	  even	  parity,	  2	  stop	  bits,	  hardware	  flow	  control	  e) 19,200	  bps,	  8	  data	  bits,	  no	  parity,	  1	  stop	  bit,	  no	  flow	  control	  	  
+150) Che	  cosa	  significa	  quando	  il	  comando	  ping	  restituisce	  come	  risultato:	  “.”?	  a) Congestion	  experienced	  b) Timed	  out	  in	  attesa	  di	  risposta	  echo	  c) Destinazione	  irraggiungibile	  d) Avvenuta	  ricezione	  di	  una	  risposta	  di	  echo	  	  
+151) Ogni	  indirizzo	  IP	  	  è	  associato	  ad:	  a) un	  unico	  hostname	  b) una	  specifica	  interfaccia	  c) un	  hostname	  in	  genere	  d) almeno	  un	  host	  name	  e) zero	  o	  più	  hostname	  	  
+152) Un	  server	  parallelo	  con	  connessioni	  utilizzata	  per	  l’apertura	  della	  connessione	  esclusivamente:	  a) la	  porta	  infinita	  b) la	  porta	  nota	  c) la	  porta	  effimera	  d) Nessuna	  delle	  precedenti	  	  
+153) Nell’algoritmo	  “distance	  vector”	  ogni	  nodo	  comunica	  le	  proprie	  informazioni:	  a) ad	  ogni	  altro	  nodo	  della	  rete	  b) ai	  soli	  vicini(adiacenti	  nel	  grafo)	  c) solo	  ad	  alcuni	  nodi(nodi	  foglia)	  	  
+154) Il	  controllo	  di	  congestione	  a) viene	  svolto	  dal	  TCP	  b) viene	  risolto	  cercando	  di	  regolare	  la	  velocità	  del	  trasmittente	  c) viene	  svolto	  a	  livello	  di	  trasporto	  d) si	  sviluppa	  utilizzando	  l’orologio	  tempo	  di	  attesa	  	  
+155) Qual	  è	  l’effetto	  di	  un	  hub	  o	  di	  un	  repetear	  su	  un	  dominio	  di	  collisione?	  a) Lo	  elimina	  	  b) Non	  ha	  nessun	  effetto	  c) Lo	  riduce	  d) Lo	  allarga	  	  
+156) A	  che	  livello	  troviamo	  nella	  gerarchia	  ISO-­‐OSI	  il	  protocollo	  POP?	  a) Trasporto	  b) Rete	  c) Fisico	  d) Applicazione	  	  
+157) Facendo	  riferimento	  alla	  figura	  che	  vede	  a	  lavoro	  il	  client	  A	  con	  il	  serve,	  quale	  sarà	  il	  MAC	  address	  sorgente	  del	  frame	  ricevuto	  dal	  client	  A	  da	  parte	  del	  server?	  a) Il	  MAC	  address	  del	  serve	  b) Il	  MAC	  address	  dell’interfaccia	  e1	  del	  router	  c) Il	  MAC	  address	  del	  client	  A	  d) Il	  MAC	  address	  dell’interfaccia	  e0	  del	  router	  	  
+158) I	  servizi	  del	  livello	  delle	  applicazioni:	  a) sono	  tutti	  insensibili	  alla	  perdita	  dei	  dati	  b) sono	  tutti	  sensibili	  alla	  perdita	  di	  dati	  c) ve	  ne	  sono	  alcuni	  sensibili	  ed	  altri	  insensibili	  d) tutte	  le	  precedenti	  	  
+159) Per	  utilizzare	  attraverso	  una	  rete	  una	  stampante	  collegata	  ad	  un’altra	  postazione	  di	  lavoro,	  fra	  il	  nostro	  computer	  e	  quello	  cui	  la	  stampante	  è	  fisicamente	  collegata	  deve	  intercorrere	  una	  relazione	  di	  tipo:	  a) HTML/URL	  b) Client/	  server	  c) Browser/server	  	  
+160) L’host	  “A”	  è	  configurato	  con	  indirizzo	  IP	  202.121.74.37	  e	  maschera	  255.255.255.224.	  L’host	  “A”	  deve	  inviare	  informazioni	  all’host	  “G”	  che	  è	  configurato	  con	  indirizzo	  IP	  202.121.74.66	  e	  maschera	  di	  255.255.255.224.	  Quali	  delle	  seguenti	  opzioni	  è	  quella	  giusta?	  a) L’indirizzo	  di	  “G”	  non	  può	  essere	  assegnato	  b) “A”	  e	  “G”	  usando	  la	  stessa	  maschera	  di	  sottorete	  sono	  sulla	  stessa	  sottorete	  c) “A”	  e	  “G”	  sono	  su	  due	  sottoreti	  distinte	  d) “G”	  è	  sulla	  sottorete	  202.121.74.224;	  perciò”A”	  e	  “G”	  sono	  sulla	  stessa	  sottorete	  	  
+161) Quale	  tra	  i	  seguenti	  indirizzi	  può	  essere	  usato	  come	  indirizzo	  destinatario	  da	  un	  host	  con	  indirizzo	  IP	  188.1.1.1	  per	  inviare	  un	  pacchetto	  a	  tutti	  gli	  altri	  host	  della	  sua	  rete?	  a) 188.1.1.1	  b) 188.0.0.0	  c) 255.255.255.255	  d) 0.0.0.0	  
+162) Quale	  schema	  di	  nidirizzamento	  del	  livello	  data	  link	  è	  usato	  in	  una	  topologia	  point-­‐to-­‐point?	  a) IPv6	  addressing	  b) Layer	  2	  addressing	  not	  required	  for	  this	  topology	  c) Ring	  addressing	  d) IPv4	  addressing	  e) Multi-­‐access	  addressing	  	  
+163) Quale	  tipo	  di	  indirizzo	  ha	  tutti	  i	  bit	  relativi	  agli	  host	  impostati	  a	  1?	  a) Broadcast	  b) Unicast	  c) Network	  d) Host	  	   
+ 
+ 
+Reti di Elaboratori Gennaio 2014 
+Data: 
+ 
+ 
+ 
+Tempo 
+trascorso: 
+ 
+ 
+Indirizzo IP: 
+ 
+ 
+ 
+Punteggio: 
+ 
+ 
+Punteggio (%): 
+ 
+ 
+ 
+Esito: 
+ 
+ 
+Risposte: 
+ 
+ 
+ 
+  
+Cognome 
+ 
+ 
+Nome 
+ 
+ 
+Matricola 
+ 
+ 
+Visualizza solo risposte errate 
+· 
+Nascondi domande 
+Domanda 1 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quali tra i seguenti è un esempio di indirizzo MAC a livello 2?  
+ 
+ 
+00-00-12-34-FE-AA 
+ 
+ 
+ 
+19-22-01-63-25 
+ 
+ 
+ 
+192.201.63.151 
+ 
+ 
+ 
+0000.1234.FEG 
+    
+ 
+Domanda 2 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali dei seguenti indirizzi rappresentano un indirizzo unicast?  
+ 
+ 
+92.168.24.59/30 
+ 
+ 
+ 
+FFFF.FFFF.FFFF 
+ 
+ 
+ 
+224.1.5.2 
+ 
+ 
+ 
+255.255.255.255 
+ 
+ 
+ 
+172.31.128.255./24 
+    
+ 
+Fare 
+clic per 
+rimuov
+ere gli 
+annunc
+i 
+ 
+Domanda 3 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Il protocollo SMTP usa il protocollo:  
+ 
+ 
+UDP 
+ 
+ 
+ 
+Vari 
+ 
+ 
+ 
+TCP 
+ 
+ 
+ 
+FTP 
+ 
+ 
+ 
+IP 
+    
+ 
+Domanda 4 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+ 
+Facendo riferimento all'immagine, l'host A ha 
+raggiunto il 50% del completamento in invio di un 
+frame Ethernet da 1KB all'host D quando l'host B 
+vuole trasmettere il proprio frame all'host C. Che 
+cosa deve fare l'host B?  
+ 
+ 
+Host B deve attendere per ricevere una 
+trasmissione CSMA dall'hub, che segnali 
+il suo turno. 
+ 
+ 
+ 
+Host B deve inviare un segnale di 
+richiesta di Hostfix trasmettendo un gap 
+interframe. 
+ 
+ 
+ 
+Host B può trasmettere immediatamente 
+poiché connesso sul proprio cable 
+segment. 
+ 
+ 
+ 
+Host B deve attendere fino a che non sia 
+certo che l'host A abbia completato 
+l'invio del suo frame 
+  
+ 
+  
+ 
+Domanda 5 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+La rete telefonica è un tipo di rete:  
+ 
+ 
+a commutazione di pacchetto (packet-switched) 
+ 
+ 
+ 
+a commutazione di circuito (circuit-switched) 
+ 
+ 
+ 
+basata solo sull'uso dei satelliti 
+ 
+ 
+ 
+che non usa protocolli 
+    
+ 
+Domanda 6 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Un "router" è:  
+ 
+ 
+un dispositivo del livello di collegamento dei dati (data link 
+layer) 
+ 
+ 
+ 
+un dispositivo del livello di rete utilizzato per l'instradamento 
+di unità di dati nel loro percorso tra nodo mittente e nodo 
+destinatario 
+ 
+ 
+ 
+un sinonimo di bridge 
+ 
+ 
+ 
+un dispositivo del livello di rete utilizzato per il trasferimento 
+affidabile dei file 
+    
+ 
+Domanda 7 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+L’host Alberto è configurato con indirizzo IP 202.121.74.37 e maschera 
+255.255.255.224. Alberto deve inviare informazioni all’host Golia che è 
+configurato con indirizzo IP 202.121.74.66 e maschera 255.255.255.224. 
+Quale delle seguenti opzioni è quella giusta ?  
+ 
+ 
+Aloberto e Golia usando la stessa maschera di sottorete sono 
+sulla stessa sottorete 
+ 
+ 
+ 
+Alberto e Golia sono su due sottoreti distinte 
+ 
+ 
+ 
+Golia è sulla sottorete 202.121.74.224; perciò Alberto e 
+Golia sono sulla stessa sottorete 
+ 
+ 
+ 
+L’indirizzo di Golia non può essere assegnato 
+    
+ 
+Domanda 8 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quali comandi possono essere utilizzati per visualizzare un host routing 
+table? (Due risposte.)  
+ 
+ 
+netstat-r 
+ 
+ 
+ 
+telnet 
+ 
+ 
+ 
+ipconfing/all 
+ 
+ 
+ 
+ruote PRINT 
+ 
+ 
+ 
+ping 
+    
+ 
+Domanda 9 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quale utility mostra il percorso impiegato da un pacchetto per raggiungere 
+la sua destinazione?  
+ 
+ 
+traceroute 
+ 
+ 
+ 
+ping 
+ 
+ 
+ 
+netstat 
+ 
+ 
+ 
+Telnet 
+    
+ 
+Domanda 10 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+In che tipo di switching ogni pacchetto di uno stesso messaggio segue 
+sempre il medesimo percorso tra mittente e destinatario ?  
+ 
+ 
+Datagram packed switching 
+ 
+ 
+ 
+Il circuit switching 
+ 
+ 
+ 
+Circuito virtuale packed switching 
+ 
+ 
+ 
+Tutti i precedenti 
+    
+ 
+Domanda 11 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Che tipi di indirizzamento possiamo trovare nel Livello OSI 2? (Due 
+risposte)  
+ 
+ 
+Physical 
+ 
+ 
+ 
+MAC 
+ 
+ 
+ 
+Port 
+ 
+ 
+ 
+Logical 
+ 
+ 
+ 
+IP 
+    
+ 
+Domanda 12 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Nell'algoritmo "distance vector" ogni nodo comunica le proprie 
+informazioni:  
+ 
+ 
+ad ogni altro nodo della rete 
+ 
+ 
+ 
+solo ad alcuni nodi (nodi foglia) 
+ 
+ 
+ 
+ai soli nodi vicini (adiacenti nel grafo) 
+    
+ 
+Domanda 13 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quali fra le seguenti affermazioni descrivono correttamente i passaggi di 
+incapsulamento nel modello OSI ? (Due risposte)  
+ 
+ 
+Transport layer divides a data stream into segments & adds 
+reliability & flow control information 
+ 
+ 
+ 
+The presentation layer translated bits into bits into voltages 
+for transmission across the physical link 
+ 
+ 
+ 
+Packets are created when the network layers adds layers 3 
+address & control information to a segment 
+ 
+ 
+ 
+Packets are created when the network layer encapsulate a 
+frame with source & destination host address & protocol 
+related control information 
+    
+ 
+Domanda 14 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quale sequenza di comandi consentirà l'accesso a cinque virtual terminal 
+lines con una password di Cisco?  
+ 
+ 
+Router(confing)#line vty 0 5 
+Router(confing)#password cisco 
+ 
+ 
+ 
+Router(confing-line)#configure telnet 
+Router(confing-line)#line vty 0 5 
+Router(cinfing-line)#password cisco 
+ 
+ 
+ 
+Router(confing)#configure telnet 
+Router(confing-line)#password cisco 
+Router(confing-line)#session 0 4 
+ 
+ 
+ 
+Router(confing)#line vty 0 4 
+Router(confing-line)#login 
+Router(confing-line)#password cisco 
+    
+ 
+Domanda 15 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quale tipo di cavo consiste in un nucleo di metallo ed un rivestimento 
+conduttore esterno ?  
+ 
+ 
+Doppino 
+ 
+ 
+ 
+Doppino schermato 
+ 
+ 
+ 
+Cavo coassiale 
+ 
+ 
+ 
+Fibra ottica 
+    
+ 
+Domanda 16 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quale delle seguenti affermazioni è vere :  
+ 
+ 
+MAC address broadcasts are all zeros. 
+ 
+ 
+ 
+MAC addresses are used by bridges and switches to make 
+forwarding/filtering decisions 
+ 
+ 
+ 
+IP addresses allow a flat address scheme, whereas MAC 
+addresses are hierarchical. 
+ 
+ 
+ 
+MAC addresses are defined at the Physical layer 
+    
+ 
+Domanda 17 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Data una subnet mask 255.255.255.224, quali dei seguenti indirizzi possono 
+essere assegnati agli host? (Tre risposte)  
+ 
+ 
+134.178.18.56 
+ 
+ 
+ 
+15.234.118.63 
+ 
+ 
+ 
+192.168.16.87 
+ 
+ 
+ 
+92.11.178.93 
+ 
+ 
+ 
+217.63.12.192 
+ 
+ 
+ 
+201.45.116.159 
+    
+ 
+Domanda 18 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quale dispositivo appartenente ad un di livello di rete può separare una 
+rete in diversi domini broadcast?  
+ 
+ 
+hub 
+ 
+ 
+ 
+switch 
+ 
+ 
+ 
+bridge 
+ 
+ 
+ 
+router 
+    
+ 
+Domanda 19 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Attraverso il mezzo fisico, lo strato fisico non si occupa della trasmissione di 
+(Tre risposte)  
+ 
+ 
+Protocolli 
+ 
+ 
+ 
+Dialoghi 
+ 
+ 
+ 
+Programmi 
+ 
+ 
+ 
+Bit 
+    
+ 
+Domanda 20 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Nell’header IP, se l’offset di frammentazione vale 100 allora:  
+ 
+ 
+Il primo byte del datagramma è il byte 800 
+ 
+ 
+ 
+Il primo byte del datagramma è il byte 100 
+ 
+ 
+ 
+La dimensione del datagramma è 100 byte 
+ 
+ 
+ 
+Il datagramma non è stato frammentato 
+    
+ 
+Domanda 21 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Gli indirizzi fisici degli host IP sono costituiti da:  
+ 
+ 
+32 bit 
+ 
+ 
+ 
+4 byte 
+ 
+ 
+ 
+48 bit 
+ 
+ 
+ 
+3 byte 
+    
+ 
+Domanda 22 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Un proxy server è usato nel Web per:  
+ 
+ 
+offrire maggiore affidabilità dei server di origine 
+ 
+ 
+ 
+soddisfare richieste HTTP 0 che altrimenti sarebbe difficile 
+soddisfare 
+trasferire file 
+ 
+ 
+ 
+ridurre il traffico globale su Internet 
+ 
+ 
+ 
+ridurre i tempi di risposta per i client 
+    
+ 
+Domanda 23 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Durante il trasferimento di dati, quali sono le principali responsabilità 
+dell'host che riceve? (Due risposte)  
+ 
+ 
+reassembly 
+ 
+ 
+ 
+bandwindth 
+ 
+ 
+ 
+anknowledgment 
+ 
+ 
+ 
+segmentation 
+ 
+ 
+ 
+throughput 
+ 
+ 
+ 
+encapsulation 
+    
+ 
+Domanda 24 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quale tra i seguenti è un sottolivello del livello Data Link?  
+ 
+ 
+OSI,LLC 
+ 
+ 
+ 
+ACL,LMC 
+ 
+ 
+ 
+MAC,LLC 
+ 
+ 
+ 
+MAC,LAC 
+    
+ 
+Domanda 25 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Un amministratore di rete sta cercando di risolvere un mancato accesso a 
+www.cisco.com. Scrivendo l'indirizzo IP del server web nel browser, la 
+pagina viene caricata correttamente. Quale protocollo del livello applicativo 
+è responsabile del fallimento?  
+ 
+ 
+SSL 
+ 
+ 
+ 
+HTTPS 
+ 
+ 
+ 
+CDP 
+ 
+ 
+ 
+HTTP 
+ 
+ 
+ 
+DHCP 
+ 
+ 
+ 
+DNS 
+    
+ 
+Domanda 26 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Ad un cliente di un provider sono stati assegnati sei indirizzi di classe C che 
+vanno da 223.68.168.0 a 223.68.174.0 Quale maschera di sottorete va usata 
+per raggruppare questi sei indirizzi (CIDR)?  
+ 
+ 
+255.255.254.0 
+ 
+ 
+ 
+255.255.248.0 
+ 
+ 
+ 
+255.255.240.0 
+ 
+ 
+ 
+255.255.224.0 
+    
+ 
+Domanda 27 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Nel paragonare una Fast Ethernet con una 10baseT Ethernet quail delle 
+seguenti affermazioni sono vere (Tre risposte):  
+ 
+ 
+Fast ethernet ha una velocità 100 volte superiore della 
+10baseT 
+ 
+ 
+ 
+Fast ethernet è basata su una estensione delle specifiche 
+IEEE 802.3 
+ 
+ 
+ 
+Fast ethernet usa la stessa MTU 
+ 
+ 
+ 
+Fast ethernet usa lo stesso formato del frame della 10baseT 
+    
+ 
+Domanda 28 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Che comando visualizza un elenco di comandi disponibili per la 
+visualizzazione dello stato del router?  
+ 
+ 
+Router#sh? 
+ 
+ 
+ 
+Router#status? 
+ 
+ 
+ 
+Router#?show 
+ 
+ 
+ 
+Router#help 
+ 
+ 
+ 
+Router#show? 
+    
+ 
+Domanda 29 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali caratteristiche sono rappresentative di un protocollo link state ? (Due 
+risposte)  
+ 
+ 
+Fornire una visione comune dell’intera topologia di rete 
+ 
+ 
+ 
+Calcolare il percorso più corto 
+ 
+ 
+ 
+Nessuna delle precedenti 
+ 
+ 
+ 
+Scambiare le tabelle di routing con I vicini 
+    
+ 
+Domanda 30 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Il campo TTL (tempo di vita) nei datagram IP4 serve per  
+ 
+ 
+limitare il numero massimo di salti (hop) che i datagram 
+possono effettuare nella rete 
+ 
+ 
+ 
+limitare il tempo di utilizzo di un collegamento 
+ 
+ 
+ 
+evitare che alcuni datagram circolino per sempre nella rete 
+ 
+ 
+ 
+limitare la dimensione massima dei messaggi 
+    
+ 
+Domanda 31 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Qual è lo scopo del numero di sequenza nell'intestazione TCP?  
+ 
+ 
+visualizza il numero massimo di byte consentita durante una 
+sessione 
+ 
+ 
+ 
+identificare il protocollo di livello applicativo 
+ 
+ 
+ 
+riassemblare i segmenti in dati 
+ 
+ 
+ 
+indicare il numero del prossimo byte atteso 
+    
+ 
+Domanda 32 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali sono i fattori chiave da considerare quando si raggruppano gli host in 
+una rete comune? (Scegliere tre.)  
+ 
+ 
+ownership 
+ 
+ 
+ 
+gateways 
+ 
+ 
+ 
+purpose 
+ 
+ 
+ 
+physical addressing 
+ 
+ 
+ 
+softwere version 
+ 
+ 
+ 
+geagraphic lacation 
+    
+ 
+Domanda 33 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Che tipo di Protocol Data Unit è gestito da un router?  
+ 
+ 
+Frame 
+ 
+ 
+ 
+Pacchetti 
+ 
+ 
+ 
+Bit 
+ 
+ 
+ 
+Segmenti 
+    
+ 
+Domanda 34 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Qual è lo scopo dei numeri di porta TCP / UDP?  
+ 
+ 
+riassemblare i segmenti nell'ordine corretto 
+ 
+ 
+ 
+individuare il numero di pacchetti di dati che possono essere 
+inviati senza conferma 
+ 
+ 
+ 
+indicare l'inizio di un three-way handshake 
+ 
+ 
+ 
+tracciare le diverse conversazioni che attraversano la rete 
+allo stesso tempo 
+    
+ 
+Domanda 35 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Cosa si ottiene dal processo di incapsulamento al livello Data Link?  
+ 
+ 
+I pacchetti vengono messi nei frames 
+ 
+ 
+ 
+I pacchetti vengono divisi nei segmenti 
+ 
+ 
+ 
+I dati vengono confezionati nei pacchetti 
+ 
+ 
+ 
+I dati vengono convertiti per la trasmissione Internet 
+    
+ 
+Domanda 36 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Per quale motivo gli host usano gli indirizzi del livello data link?  
+ 
+ 
+remote delivery using routers 
+ 
+ 
+ 
+remote delivery 
+ 
+ 
+ 
+local and remote delivery 
+ 
+ 
+ 
+local delivery 
+    
+ 
+Domanda 37 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Qual è lo scopo del comando segreto consentito di IOS?  
+ 
+ 
+Impostare la protezione password sul consol terminal 
+ 
+ 
+ 
+Consentire accesso dell'utente in modalità utente 
+ 
+ 
+ 
+Impostare la protezione password sulle sessioni Telnet in 
+arrivo 
+ 
+ 
+ 
+Consentire a un utente di immettere una password che verrà 
+crittografata 
+    
+ 
+Domanda 38 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Come sono le collisioni rilevate su una rete Ethernet?  
+ 
+ 
+Il traffico sulla rete non può essere rilevato causa di un 
+blocco 
+ 
+ 
+ 
+Le stazioni identificano il campo alterato FCS sui pacchetti 
+in collisione. 
+ 
+ 
+ 
+L'ampiezza del segnale sul supporto di rete è superiore al 
+normale. 
+ 
+ 
+ 
+L'ampiezza del segnale sul supporto di rete è più bassa del 
+normale. 
+    
+ 
+Domanda 39 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Il protocollo Go-Back-N per il trasferimento dati affidabile:  
+ 
+ 
+usa i riscontri individuali 
+ 
+ 
+ 
+è usato in TCP 
+ 
+ 
+ 
+ritrasmette solo i pacchetti persi 
+ 
+ 
+ 
+permettere di trasmettere fino a N pacchetti senza riscontro 
+(N dimensione della finestra) 
+ 
+ 
+ 
+usa riscontri cumulativi 
+    
+ 
+Domanda 40 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali tre parti fondamentali sono comuni a tutti i tipi di frame supportati 
+dal livello di collegamento dati? (Tre risposte.)  
+ 
+ 
+data 
+ 
+ 
+ 
+trailer 
+ 
+ 
+ 
+MTU size 
+ 
+ 
+ 
+type field 
+ 
+ 
+ 
+header 
+ 
+ 
+ 
+CRC valute 
+    
+ 
+Domanda 41 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+ 
+Facendo riferimento alla figura che vede al lavoro il 
+client A con il server, quale sarà il MAC Address 
+sorgente del frame ricevuto dal client A da parte del 
+server?  
+ 
+ 
+Il MAC address del server 
+ 
+ 
+ 
+Il MAC address dell’interfaccia e1 del 
+Router 
+ 
+ 
+ 
+Il MAC address del client A 
+ 
+ 
+ 
+Il MAC address dell'interfaccia e0 del 
+Router 
+  
+ 
+  
+ 
+Domanda 42 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+La classe di indirizzi IP che consente di associare ad una data rete il minimo 
+numero di host è:  
+ 
+ 
+La classe B. 
+ 
+ 
+ 
+La classe A. 
+ 
+ 
+ 
+La classe C. 
+ 
+ 
+ 
+Tutte le precedenti 
+    
+ 
+Domanda 43 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quale tra i seguenti è un esempio di indirizzo MAC a livello 2 ?  
+ 
+ 
+19-22-01-63-25 
+ 
+ 
+ 
+192.201.63.151 
+ 
+ 
+ 
+0000.1234.FEG 
+ 
+ 
+ 
+00-00-12-34-FE-AA 
+    
+ 
+Domanda 44 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+A che livello troviamo nella gerarchia ISO-OSI il protocollo POP?  
+ 
+ 
+Trasporto 
+ 
+ 
+ 
+Fisico 
+ 
+ 
+ 
+Applicazione 
+ 
+ 
+ 
+Rete 
+    
+ 
+Domanda 45 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali dei seguenti protocolli usano ICMP?  
+ 
+ 
+Traceroute 
+ 
+ 
+ 
+http 
+ 
+ 
+ 
+Ping 
+ 
+ 
+ 
+Smtp 
+    
+ 
+Domanda 46 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+ 
+Facendo riferimento all'immagine. Un network 
+administrator sta testando la configurazione su un 
+computer host. Che tipo di indirizzo è 127.0.0.1?  
+ 
+ 
+public 
+ 
+ 
+ 
+default route 
+ 
+ 
+ 
+link-local 
+ 
+ 
+ 
+ 
+loopback 
+    
+ 
+Domanda 47 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+ 
+Facendo riferimento all'immagine. Qual è lo scopo 
+del rivestimento in fibra ottica?  
+ 
+ 
+Protezione EMI 
+ 
+ 
+ 
+Prevenzione della perdita di luce 
+ 
+ 
+ 
+Cable grounding 
+ 
+ 
+ 
+Diminuzione del rumore 
+  
+ 
+  
+ 
+Domanda 48 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quali sono i vantaggi null' utilizzare cavi in fibra ottica su cavo in rame? 
+(Tre risposte)  
+ 
+ 
+La lunghezza massima del cavo è maggiore 
+ 
+ 
+ 
+Il rame è più costoso 
+ 
+ 
+ 
+L'efficiente trasferimento di corrente elettrica 
+ 
+ 
+ 
+Un maggior potenziale della larghezza di banda 
+ 
+ 
+ 
+Un'attenta gestione del cavo 
+ 
+ 
+ 
+L'immunità alle interferenze elettromagnetiche 
+    
+ 
+Domanda 49 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali tipi di problemi sono causati da un eccessivo traffico di trasmissioni 
+su un segmento di rete? (Tre risposte.)  
+ 
+ 
+divide reti basate su proprietà 
+ 
+ 
+ 
+interrompe le altre funzioni dell'host 
+ 
+ 
+ 
+Aumento del sovraccarico sulla rete 
+ 
+ 
+ 
+Consumo della network bandwidth 
+ 
+ 
+ 
+interruzione delle altre funzioni host 
+ 
+ 
+ 
+richiede schemi di indirizzo complessi 
+    
+ 
+Domanda 50 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quali fra i seguenti sono campi di un frame Ethernet 802.3? (Tre risposte.)  
+ 
+ 
+Source logical address 
+ 
+ 
+ 
+Source physical address 
+ 
+ 
+ 
+Media type identifier 
+ 
+ 
+ 
+Destination logical address 
+ 
+ 
+ 
+Frame check sequence 
+ 
+ 
+ 
+Destination physical address 
+    
+ 
+Domanda 51 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quale è lo scopo di un TCP three-way handshake ?  
+ 
+ 
+Generare un canale dedicato per l’interscambio dei dati 
+ 
+ 
+ 
+Sincronizza i numeri di sequenza prima della trasmissione 
+dei dati 
+ 
+ 
+ 
+Nessuna delle precedenti 
+ 
+ 
+ 
+Aggiusta la larghezza della sliding window 
+    
+ 
+Domanda 52 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Il protocollo TCP:  
+ 
+ 
+usa il meccanismo dei riscontri di Go-Back-N 
+ 
+ 
+ 
+garantisce una valore di banda minimo 
+ 
+ 
+ 
+usa i riscontri cumulativi 
+ 
+ 
+ 
+fornisce un servizio full-duplex 
+ 
+ 
+ 
+rispedisce tutti i segmenti con numero di sequenza 
+successivo al segmento non riscontrato correttamente 
+    
+ 
+Domanda 53 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Attraverso quale processo un cavo UTP aiuta ad evitare interferenze?  
+ 
+ 
+Twisting of pairs 
+ 
+ 
+ 
+cladding in cable 
+ 
+ 
+ 
+Schermatura del cavo 
+ 
+ 
+ 
+Messa a terra dei punti finale 
+    
+ 
+Domanda 54 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Che cos'è un RFC?  
+ 
+ 
+una richiesta di commenti agli utenti finali di un servizio di 
+Internet 
+ 
+ 
+ 
+tutte le precedenti 
+ 
+ 
+ 
+un documento che descrive uno standard di Internet 
+ 
+ 
+ 
+uno standard di Internet 
+    
+ 
+Domanda 55 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+Quale delle frasi seguenti descrive nel modo migliore una socket?  
+ 
+ 
+Un numero usato per identificare la posizione di un processo 
+su un host remoto 
+ 
+ 
+ 
+La combinazione di un numero di porta con un indirizzo IP 
+utilizzata per fornire a un' applicazione, o a un servizio, 
+l’accesso a un processo su un host remoto 
+ 
+ 
+ 
+Un numero di porta utilizzato per identificare la posizione di 
+un processo su un host remoto 
+ 
+ 
+ 
+Un numero casuale generato da un server che fornisce a una 
+applicazione l’accesso a un processo su un host remoto 
+    
+ 
+Domanda 56 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Quale comando visualizza le statistiche per tutte le interfacce configurate su 
+un router?  
+ 
+ 
+show interfaces 
+ 
+ 
+ 
+show statistics 
+ 
+ 
+ 
+show processes 
+ 
+ 
+ 
+list interfaces 
+    
+ 
+Domanda 57 1 punto (max), 0 punti (min), hai ottenuto 1 punto 
+ 
+ 
+ 
+Facendo riferimento all'immagine: quali dispositivi 
+devono avere un indirizzo MAC?  
+ 
+ 
+Solo il router 
+ 
+ 
+ 
+Solo il PC 
+ 
+ 
+ 
+PC, router e hub 
+ 
+ 
+ 
+Sia il PC che il router 
+ 
+ 
+ 
+ 
+PC, print e router 
+    
+ 
+Domanda 58 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Cosa descrive meglio lo scopo del Physical Layer?  
+ 
+ 
+Assicura una trasmissione affidabile di dati attraverso un 
+collegamento fisico 
+ 
+ 
+ 
+Stabilisce il Physical addressing, topologia di rete e di 
+accesso ai media 
+ 
+ 
+ 
+Determina la connettività e la selezione del percorso tra due 
+sistemi terminali 
+ 
+ 
+ 
+Definisce le specifiche funzionali per collegamento tra end 
+system e segnali elettrici, ottici e radio. 
+    
+ 
+Domanda 59 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Qual è la ragione principale per lo sviluppo di IPv6?  
+ 
+ 
+addressing simpliﬁcation 
+ 
+ 
+ 
+header format simpliﬁcation 
+ 
+ 
+ 
+security 
+ 
+ 
+ 
+expanded addressing capabilities 
+    
+ 
+Domanda 60 1 punto (max), 0 punti (min), hai ottenuto 0 punti 
+ 
+ 
+Tra gli elementi chiave di un protocollo troviamo: (Due risposte)  
+ 
+ 
+La struttura ed il formato dei dati 
+ 
+ 
+ 
+I dettagli hardware dei computer che lo implementano 
+ 
+ 
+ 
+Il significato di ogni gruppo di bit 
+ 
+ 
+ 
+I dettagli hardware della rete 
+    
+ 
+  
+ 
+Questo documento è stato creato con QuestBase. Crea, stampa e svolgi questionari gratuitamente a 
+http://www.questbase.com 
+ 
